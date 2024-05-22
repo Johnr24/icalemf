@@ -1,6 +1,6 @@
 from icalendar import Calendar
 import requests
-
+#
 # Download the 2024.ical file from the given URL
 url = 'https://www.emfcamp.org/schedule/2024.ical'
 response = requests.get(url)
