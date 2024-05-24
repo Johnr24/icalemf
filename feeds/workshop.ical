@@ -11,23 +11,6 @@ DESCRIPTION:Karaoke returns to EMF!\nWe aim to keep the first hour family
 LOCATION:Workshop 4 (FieldFX)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Knot too hard - an introduction to Celtic knotwork 
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240531T113000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240531T130000
-UID:2024-88
-DESCRIPTION:For centuries craftsmen across the globe have been fascinated 
- by Celtic Knotwork using it to decorate stone\, paper and textiles.  Now i
- t is your turn !  If you can count up to three and hold a pencil\, this wo
- rkshop will show you how to create your own knotwork.\nThis  workshop is s
- uitable for all ages - children accompanied by a responsible adult please.
- \nAll materials will be provided\, just bring your own patience and sense 
- of humour. \nWarning - this can become an addictive time waster.....\n\nAt
- tending this workshop will cost: n/A\nSuitable age range: all ages\nAttend
- ees should bring: see above\n\nLink: https://www.emfcamp.org/schedule/2024
- /88-knot-too-hard-an-introduction-to-celtic-knotwork
-LOCATION:Workshop 1 (NottingHack)
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Karaoke: Sunday Night
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240602T200000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240602T230000
@@ -180,30 +163,6 @@ DESCRIPTION:We plan on having 5 sharpening setups using stones and other m
  ult\nAttendees should bring: None\n\nLink: https://www.emfcamp.org/schedul
  e/2024/81-tool-and-knife-sharpening
 LOCATION:Workshop 0 (Drop-in)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Make a game in an hour or two!
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240531T160000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240531T180000
-UID:2024-418
-DESCRIPTION:Let's make a computer game! Using the accessible and fun platf
- orm PICO-8 we'll work together to learn how to make a simple game\, includ
- ing everything from code to pixel art graphics and chippy sounds. \n\nThe 
- workshop holder has lots of experience from the platform and will help and
-  coach participants to get the most of the workshop.\n\nThings we will cov
- er:\n- the basic game loop\n- moving entities \n- animation\n- collision d
- etection\n- making and playing sounds\n\nWe'll also look at some existing 
- games that showcase what is possible with the platform.\n\nAfter the works
- hop participants will have a base for a game which they easily can keep wo
- rking on by themselves if they desire.\n\nPICO-8 uses Lua which is an easy
-  programming language to get started with\, but given the time limit on th
- e workshop\, basic programming knowledge is preferred. \n\nPICO-8 is can b
- e purchased and downloaded\, but there is also an educational version avai
- lable online that is can be used for the workshop.\n\nAttending this works
- hop will cost: \nSuitable age range: 12+\nAttendees should bring: laptop\n
- \nLink: https://www.emfcamp.org/schedule/2024/418-make-a-game-in-an-hour-o
- r-two
-LOCATION:Workshop 2 (Milliways)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:An introduction to the post-apocalyptic skill of spinning yarn
@@ -514,26 +473,6 @@ DESCRIPTION:In this workshop\, we will learn to handle the tiniest electro
  ounger participants welcome if they can do focused work for 2 hours at a t
  ime\nAttendees should bring: no equipment needed\n\nLink: https://www.emfc
  amp.org/schedule/2024/663-surface-mount-electronics-assembly-for-terrified
- -beginners
-LOCATION:Workshop 6 (Hardware Hacking)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surface mount electronics assembly for terrified beginners
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240530T200000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240530T220000
-UID:2024-662
-DESCRIPTION:In this workshop\, we will learn to handle the tiniest electro
- nic components\, which are used to make modern electronic devices. We will
-  cheat the same way the electronics industry does\, and use the techniques
-  of stencil paste printing and reflow soldering. We will also learn a tech
- nique that stops your hands from shaking\, so you can very very precisely 
- place microscopic parts. No prior experience or knowledge of anything elec
- tronic needed. Caffeine use is not recommended immediately before. All too
- ls are provided.\n\nAttending this workshop will cost: 20 for those that w
- ant to make their own board\, free to observe\nSuitable age range: 12+\, y
- ounger participants welcome if they can do focused work for 2 hours at a t
- ime\nAttendees should bring: no equipment needed\n\nLink: https://www.emfc
- amp.org/schedule/2024/662-surface-mount-electronics-assembly-for-terrified
  -beginners
 LOCATION:Workshop 6 (Hardware Hacking)
 END:VEVENT
@@ -1022,29 +961,41 @@ DESCRIPTION:In the workshop\, I first give a short overview about MEMS sen
 LOCATION:Workshop 3 (Furry High Commission)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:300 Addressable LED Strings with Microbits & Python
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240601T175000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240601T185000
-UID:2024-465
-DESCRIPTION:Children can learn to control addressable RGB LED using the Ne
- opixel library and Python on the BBC Microbit. Starting small with a 10 LE
- D attached to a Microbit and then upgrade once the code is working to stri
- ngs of 300. \nJoin us for an exciting 60 minute workshop where your child 
- will delve into the world of coding using the innovative BBC Microbit and 
- Neopixels. This hands-on session is tailored to match the Key Stage 3 & 4 
- computing curriculum\, making it a valuable addition to your child’s edu
- cation while keeping it fun and engaging. \nIn the workshop children will 
- create a simple device that changes the lights\, teaching them essential p
- rogramming concepts such as variables\, loops\, conditionals\, and functio
- ns. The workshop is more than just a coding lesson\; it’s an introductio
- n to how technology integrates into various aspects of our industries\, fr
- om manufacturing to creative arts. \nThis session is a fantastic way for y
- our child to see the real-world impact of technology and to spark their in
- terest in innovation and tech careers.\n\nAttending this workshop will cos
- t: \nSuitable age range: 7 to 12 though 9 to 12 is better.\nAttendees shou
- ld bring: Nothing\n\nLink: https://www.emfcamp.org/schedule/2024/465-300-a
- ddressable-led-strings-with-microbits-python
-LOCATION:Youth Workshop
+SUMMARY:Surface mount electronics assembly for terrified beginners
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240530T200000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240530T220000
+UID:2024-662
+DESCRIPTION:In this workshop\, we will learn to handle the tiniest electro
+ nic components\, which are used to make modern electronic devices. We will
+  cheat the same way the electronics industry does\, and use the techniques
+  of stencil paste printing and reflow soldering. We will also learn a tech
+ nique that stops your hands from shaking\, so you can very very precisely 
+ place microscopic parts. No prior experience or knowledge of anything elec
+ tronic needed. Caffeine use is not recommended immediately before. All too
+ ls are provided.\n\nAttending this workshop will cost: 20 for those that w
+ ant to make their own board\, free to observe\nSuitable age range: 12+\, y
+ ounger participants welcome if they can do focused work for 2 hours at a t
+ ime\nAttendees should bring: no equipment needed\n\nLink: https://www.emfc
+ amp.org/schedule/2024/662-surface-mount-electronics-assembly-for-terrified
+ -beginners
+LOCATION:Workshop 6 (Hardware Hacking)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Knot too hard - an introduction to Celtic knotwork 
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240531T113000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240531T130000
+UID:2024-88
+DESCRIPTION:For centuries craftsmen across the globe have been fascinated 
+ by Celtic Knotwork using it to decorate stone\, paper and textiles.  Now i
+ t is your turn !  If you can count up to three and hold a pencil\, this wo
+ rkshop will show you how to create your own knotwork.\nThis  workshop is s
+ uitable for all ages - children accompanied by a responsible adult please.
+ \nAll materials will be provided\, just bring your own patience and sense 
+ of humour. \nWarning - this can become an addictive time waster.....\n\nAt
+ tending this workshop will cost: n/a\nSuitable age range: all ages\nAttend
+ ees should bring: none\n\nLink: https://www.emfcamp.org/schedule/2024/88-k
+ not-too-hard-an-introduction-to-celtic-knotwork
+LOCATION:Workshop 1 (NottingHack)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Light Up Flowers and Insects Workshop 
@@ -1074,6 +1025,30 @@ DESCRIPTION:Come along to join a table and learn how to play tabletop role
   kids welcome.\nAttendees should bring: \n\nLink: https://www.emfcamp.org/
  schedule/2024/523-intro-to-roleplaying
 LOCATION:Workshop 1 (NottingHack)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Make a game in an hour or two!
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240531T160000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240531T180000
+UID:2024-418
+DESCRIPTION:Let's make a computer game! Using the accessible and fun platf
+ orm PICO-8 we'll work together to learn how to make a simple game\, includ
+ ing everything from code to pixel art graphics and chippy sounds. \n\nThe 
+ workshop holder has lots of experience from the platform and will help and
+  coach participants to get the most of the workshop.\n\nThings we will cov
+ er:\n- the basic game loop\n- moving entities \n- animation\n- collision d
+ etection\n- making and playing sounds\n\nWe'll also look at some existing 
+ games that showcase what is possible with the platform.\n\nAfter the works
+ hop participants will have a base for a game which they easily can keep wo
+ rking on by themselves if they desire.\n\nPICO-8 uses Lua which is an easy
+  programming language to get started with\, but given the time limit on th
+ e workshop\, basic programming knowledge is preferred. \n\nPICO-8 is can b
+ e purchased and downloaded\, but there is also an educational version avai
+ lable online that is can be used for the workshop.\n\nAttending this works
+ hop will cost: \nSuitable age range: 12+\nAttendees should bring: laptop\n
+ \nLink: https://www.emfcamp.org/schedule/2024/418-make-a-game-in-an-hour-o
+ r-two
+LOCATION:Workshop 2 (Milliways)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Botato Wars
@@ -1107,6 +1082,31 @@ DESCRIPTION:In this evening activity\, we will get hands on drawing with l
   just simple lines.\n\nAttending this workshop will cost: \nSuitable age r
  ange: 5-18\nAttendees should bring: \n\nLink: https://www.emfcamp.org/sche
  dule/2024/142-painting-with-light-build-and-paint-with-your-own-glowie
+LOCATION:Youth Workshop
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:300 Addressable LED Strings with Microbits & Python
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240601T175000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240601T185000
+UID:2024-465
+DESCRIPTION:Children can learn to control addressable RGB LED using the Ne
+ opixel library and Python on the BBC Microbit. Starting small with a 10 LE
+ D attached to a Microbit and then upgrade once the code is working to stri
+ ngs of 300. \nJoin us for an exciting 60 minute workshop where your child 
+ will delve into the world of coding using the innovative BBC Microbit and 
+ Neopixels. This hands-on session is tailored to match the Key Stage 3 & 4 
+ computing curriculum\, making it a valuable addition to your child’s edu
+ cation while keeping it fun and engaging. \nIn the workshop children will 
+ create a simple device that changes the lights\, teaching them essential p
+ rogramming concepts such as variables\, loops\, conditionals\, and functio
+ ns. The workshop is more than just a coding lesson\; it’s an introductio
+ n to how technology integrates into various aspects of our industries\, fr
+ om manufacturing to creative arts. \nThis session is a fantastic way for y
+ our child to see the real-world impact of technology and to spark their in
+ terest in innovation and tech careers.\n\nAttending this workshop will cos
+ t: \nSuitable age range: 7 to 12 though 9 to 12 is better.\nAttendees shou
+ ld bring: Nothing\n\nLink: https://www.emfcamp.org/schedule/2024/465-300-a
+ ddressable-led-strings-with-microbits-python
 LOCATION:Youth Workshop
 END:VEVENT
 BEGIN:VEVENT
@@ -1717,9 +1717,9 @@ DESCRIPTION:A modern spin on leather work. Laser cut leather pieces that c
  ods to explore at home from using a printer\, Circuit or laser cutter will
   be shown for those who would like to experiment further.\n\nAttending thi
  s workshop will cost: £15-£50 depending on kits chosen.\nSuitable age ra
- nge: 12-99\nAttendees should bring: Non. A laptop can be brought along to 
- explore CAD software.\n\nLink: https://www.emfcamp.org/schedule/2024/393-l
- aser-cut-leather
+ nge: 12-99\nAttendees should bring: None. A laptop can be brought along to
+  explore CAD software.\n\nLink: https://www.emfcamp.org/schedule/2024/393-
+ laser-cut-leather
 LOCATION:Workshop 1 (NottingHack)
 END:VEVENT
 END:VCALENDAR

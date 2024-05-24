@@ -32,23 +32,6 @@ DESCRIPTION:Many people rely on pollen forecasts to know when their allerg
 LOCATION:Stage C
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Knot too hard - an introduction to Celtic knotwork 
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240531T113000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240531T130000
-UID:2024-88
-DESCRIPTION:For centuries craftsmen across the globe have been fascinated 
- by Celtic Knotwork using it to decorate stone\, paper and textiles.  Now i
- t is your turn !  If you can count up to three and hold a pencil\, this wo
- rkshop will show you how to create your own knotwork.\nThis  workshop is s
- uitable for all ages - children accompanied by a responsible adult please.
- \nAll materials will be provided\, just bring your own patience and sense 
- of humour. \nWarning - this can become an addictive time waster.....\n\nAt
- tending this workshop will cost: n/A\nSuitable age range: all ages\nAttend
- ees should bring: see above\n\nLink: https://www.emfcamp.org/schedule/2024
- /88-knot-too-hard-an-introduction-to-celtic-knotwork
-LOCATION:Workshop 1 (NottingHack)
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Live tour of the Boulby Underground Laboratory - a special science
   facility 1.1km underground!
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240531T143000
@@ -345,30 +328,6 @@ DESCRIPTION:We plan on having 5 sharpening setups using stones and other m
 LOCATION:Workshop 0 (Drop-in)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Make a game in an hour or two!
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240531T160000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240531T180000
-UID:2024-418
-DESCRIPTION:Let's make a computer game! Using the accessible and fun platf
- orm PICO-8 we'll work together to learn how to make a simple game\, includ
- ing everything from code to pixel art graphics and chippy sounds. \n\nThe 
- workshop holder has lots of experience from the platform and will help and
-  coach participants to get the most of the workshop.\n\nThings we will cov
- er:\n- the basic game loop\n- moving entities \n- animation\n- collision d
- etection\n- making and playing sounds\n\nWe'll also look at some existing 
- games that showcase what is possible with the platform.\n\nAfter the works
- hop participants will have a base for a game which they easily can keep wo
- rking on by themselves if they desire.\n\nPICO-8 uses Lua which is an easy
-  programming language to get started with\, but given the time limit on th
- e workshop\, basic programming knowledge is preferred. \n\nPICO-8 is can b
- e purchased and downloaded\, but there is also an educational version avai
- lable online that is can be used for the workshop.\n\nAttending this works
- hop will cost: \nSuitable age range: 12+\nAttendees should bring: laptop\n
- \nLink: https://www.emfcamp.org/schedule/2024/418-make-a-game-in-an-hour-o
- r-two
-LOCATION:Workshop 2 (Milliways)
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Whispered Secrets: Building An Open-Source Tool To Live Transcribe
   & Summarize Conversations
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240602T164000
@@ -621,13 +580,8 @@ UID:2024-538
 DESCRIPTION:It's no secret that the tech sector is notoriously lacking in 
  unionisation compared to more traditional industries\; We'd like to talk a
  bout why this might be\, why it's a bad thing for everyone\, and how we mi
- ght go about fixing it.\n\nWe'll let you know about some rights you have a
- s a worker that you might not realise you have\, we'll regale some war sto
- ries of those rights in action\, and we'll try to make the task of organis
- ing your workplace seem much less daunting. Most of the information held w
- ithin will be specific to workers in the UK\, but we hope to impart some t
- houghts that are applicable to workers everywhere!\n\nLink: https://www.em
- fcamp.org/schedule/2024/538-contrary-to-popular-belief-tech-needs-unions
+ ght go about fixing it.\n\nLink: https://www.emfcamp.org/schedule/2024/538
+ -contrary-to-popular-belief-tech-needs-unions
 LOCATION:Stage A
 END:VEVENT
 BEGIN:VEVENT
@@ -1008,26 +962,6 @@ DESCRIPTION:Get ready to take a trip into space.  We'll be travelling 400k
  e on show and available for inspection. \n\n\n\nLink: https://www.emfcamp.
  org/schedule/2024/165-photobombed-by-a-robot-arm-in-space
 LOCATION:Stage B
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surface mount electronics assembly for terrified beginners
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240530T200000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240530T220000
-UID:2024-662
-DESCRIPTION:In this workshop\, we will learn to handle the tiniest electro
- nic components\, which are used to make modern electronic devices. We will
-  cheat the same way the electronics industry does\, and use the techniques
-  of stencil paste printing and reflow soldering. We will also learn a tech
- nique that stops your hands from shaking\, so you can very very precisely 
- place microscopic parts. No prior experience or knowledge of anything elec
- tronic needed. Caffeine use is not recommended immediately before. All too
- ls are provided.\n\nAttending this workshop will cost: 20 for those that w
- ant to make their own board\, free to observe\nSuitable age range: 12+\, y
- ounger participants welcome if they can do focused work for 2 hours at a t
- ime\nAttendees should bring: no equipment needed\n\nLink: https://www.emfc
- amp.org/schedule/2024/662-surface-mount-electronics-assembly-for-terrified
- -beginners
-LOCATION:Workshop 6 (Hardware Hacking)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Engineering lessons from a 300 year-old poem  
@@ -3126,6 +3060,71 @@ DESCRIPTION:In the workshop\, I first give a short overview about MEMS sen
 LOCATION:Workshop 3 (Furry High Commission)
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Friday Nite Rites - The Bottle Opens
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240531T190000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240531T200000
+UID:2024-668
+DESCRIPTION:The Most Sacred Friday Nite Rites shall be undertaken. As told
+  by the prophet DJ Bad Boy\, we drink a bottle of Bucky and get out wur ch
+ icken.\n\nThis blessed wine\, produced by Benedictine Monks in Devon\, blo
+ ody England\, is carefully\, lovingly barrel aged to a smooth\, steady 15%
+  alcohol and is imbued in a holy ceremony with a blessed 280mg of caffeine
+ . Safe passage across the Border has been assured by the Buckfast Accord o
+ f 1669 for even the bloody English appreciate that to starve Scotland of i
+ ts key religious artifact will result in an invasive war and oppressive oc
+ cupation. This is the source of the common phrase "Buckfast gets you fucke
+ d fast" - the leading word "Nae" was dropped due to a misunderstanding of 
+ intent during the Victorian era\, and now the phrase is a common celebrati
+ on and acknowledgement of the intensity of the Rites.\n\nWhen consumed in 
+ the appropriate manner (directly from the bottle\, completed in roughly 1 
+ hour) it will aid you in seeing through time and being particularly of the
+  moment. Often\, first time participants of the Drinkers Rites will find u
+ pon completion of their experience that they have voluntarily shed themsel
+ ves of all material possessions. This is to be expected - when you are acc
+ elerated to the Blessed Plane of Existence\, the whisperings of ancient go
+ ds and creatures that exist between dimensions will often assist the reali
+ sation that material possessions are temporary\, but Tonic Experiences are
+  for life.\n\nA note of caution to all prospective disciples\, however - t
+ he intensity of your experience may transfer all the joy contained in your
+  soul to be used tomorrow and expend it during the ritual. This transfer o
+ ften leads to a despondent day\, where one reflects only upon the negative
+  aspects of life. Do not fret\, to experience the highest of highs we must
+  understand that with which it contrasts. The despair of the day after\, c
+ oupled with the infamous Jakey Shakes and occasional rejections of all foo
+ d and liquid are only temporary.\n\nThis is part of the journey as set out
+  by The Wine\, produced by the most blessed monks of Devonshire. It teache
+ s us that while all shall return to equilibrium\, to break from normality 
+ for just a moment of time may bring incredible joy.\n\nWhy don't you join 
+ Scots of all shapes and sizes at the nearest consular outpost on Friday to
+  experience the Friday Nite Rites. It must be noted\, the numbers stamped 
+ on the base of the bottle are a measure of ritual experience\, and acolyte
+ s may start you on a high number (indicating low intensity)\, restricting 
+ the blessed Number 1 bottle for only the most revered members of the encam
+ pment.\n\n\nLink: https://www.emfcamp.org/schedule/2024/668-friday-nite-ri
+ tes-the-bottle-opens
+LOCATION:Scottish Consulate
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surface mount electronics assembly for terrified beginners
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240530T200000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240530T220000
+UID:2024-662
+DESCRIPTION:In this workshop\, we will learn to handle the tiniest electro
+ nic components\, which are used to make modern electronic devices. We will
+  cheat the same way the electronics industry does\, and use the techniques
+  of stencil paste printing and reflow soldering. We will also learn a tech
+ nique that stops your hands from shaking\, so you can very very precisely 
+ place microscopic parts. No prior experience or knowledge of anything elec
+ tronic needed. Caffeine use is not recommended immediately before. All too
+ ls are provided.\n\nAttending this workshop will cost: 20 for those that w
+ ant to make their own board\, free to observe\nSuitable age range: 12+\, y
+ ounger participants welcome if they can do focused work for 2 hours at a t
+ ime\nAttendees should bring: no equipment needed\n\nLink: https://www.emfc
+ amp.org/schedule/2024/662-surface-mount-electronics-assembly-for-terrified
+ -beginners
+LOCATION:Workshop 6 (Hardware Hacking)
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Minecraft Social 7-12yrs - Education Edition
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240531T100000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240531T110000
@@ -3138,6 +3137,23 @@ DESCRIPTION:Come along\, meet other kids interested in minecraft.\n\nWe ha
  s should bring: \n\nLink: https://www.emfcamp.org/schedule/2024/591-minecr
  aft-social-7-12yrs-education-edition
 LOCATION:East Essex Hackspace CIO
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Knot too hard - an introduction to Celtic knotwork 
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240531T113000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240531T130000
+UID:2024-88
+DESCRIPTION:For centuries craftsmen across the globe have been fascinated 
+ by Celtic Knotwork using it to decorate stone\, paper and textiles.  Now i
+ t is your turn !  If you can count up to three and hold a pencil\, this wo
+ rkshop will show you how to create your own knotwork.\nThis  workshop is s
+ uitable for all ages - children accompanied by a responsible adult please.
+ \nAll materials will be provided\, just bring your own patience and sense 
+ of humour. \nWarning - this can become an addictive time waster.....\n\nAt
+ tending this workshop will cost: n/a\nSuitable age range: all ages\nAttend
+ ees should bring: none\n\nLink: https://www.emfcamp.org/schedule/2024/88-k
+ not-too-hard-an-introduction-to-celtic-knotwork
+LOCATION:Workshop 1 (NottingHack)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Auto Plane Spotter: a robot to point at aeroplanes
@@ -3256,31 +3272,6 @@ DESCRIPTION:After accidentally becoming fluent in Morse Code I have waded
 LOCATION:Stage B
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:300 Addressable LED Strings with Microbits & Python
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240601T175000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240601T185000
-UID:2024-465
-DESCRIPTION:Children can learn to control addressable RGB LED using the Ne
- opixel library and Python on the BBC Microbit. Starting small with a 10 LE
- D attached to a Microbit and then upgrade once the code is working to stri
- ngs of 300. \nJoin us for an exciting 60 minute workshop where your child 
- will delve into the world of coding using the innovative BBC Microbit and 
- Neopixels. This hands-on session is tailored to match the Key Stage 3 & 4 
- computing curriculum\, making it a valuable addition to your child’s edu
- cation while keeping it fun and engaging. \nIn the workshop children will 
- create a simple device that changes the lights\, teaching them essential p
- rogramming concepts such as variables\, loops\, conditionals\, and functio
- ns. The workshop is more than just a coding lesson\; it’s an introductio
- n to how technology integrates into various aspects of our industries\, fr
- om manufacturing to creative arts. \nThis session is a fantastic way for y
- our child to see the real-world impact of technology and to spark their in
- terest in innovation and tech careers.\n\nAttending this workshop will cos
- t: \nSuitable age range: 7 to 12 though 9 to 12 is better.\nAttendees shou
- ld bring: Nothing\n\nLink: https://www.emfcamp.org/schedule/2024/465-300-a
- ddressable-led-strings-with-microbits-python
-LOCATION:Youth Workshop
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:An engineer’s guide to parenthood
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240602T122000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240602T125000
@@ -3391,6 +3382,30 @@ DESCRIPTION:Combining his deep interest in the biology of hair with genera
 LOCATION:Stage C
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Make a game in an hour or two!
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240531T160000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240531T180000
+UID:2024-418
+DESCRIPTION:Let's make a computer game! Using the accessible and fun platf
+ orm PICO-8 we'll work together to learn how to make a simple game\, includ
+ ing everything from code to pixel art graphics and chippy sounds. \n\nThe 
+ workshop holder has lots of experience from the platform and will help and
+  coach participants to get the most of the workshop.\n\nThings we will cov
+ er:\n- the basic game loop\n- moving entities \n- animation\n- collision d
+ etection\n- making and playing sounds\n\nWe'll also look at some existing 
+ games that showcase what is possible with the platform.\n\nAfter the works
+ hop participants will have a base for a game which they easily can keep wo
+ rking on by themselves if they desire.\n\nPICO-8 uses Lua which is an easy
+  programming language to get started with\, but given the time limit on th
+ e workshop\, basic programming knowledge is preferred. \n\nPICO-8 is can b
+ e purchased and downloaded\, but there is also an educational version avai
+ lable online that is can be used for the workshop.\n\nAttending this works
+ hop will cost: \nSuitable age range: 12+\nAttendees should bring: laptop\n
+ \nLink: https://www.emfcamp.org/schedule/2024/418-make-a-game-in-an-hour-o
+ r-two
+LOCATION:Workshop 2 (Milliways)
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Botato Wars
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240601T150000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240601T160000
@@ -3441,6 +3456,31 @@ DESCRIPTION:“Could you crash the Moon into the Earth?”\n“If the Sun
  et is entirely populated by robots?”. \n\n\nLink: https://www.emfcamp.or
  g/schedule/2024/428-astrophysics-for-supervillains
 LOCATION:Stage B
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:300 Addressable LED Strings with Microbits & Python
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240601T175000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240601T185000
+UID:2024-465
+DESCRIPTION:Children can learn to control addressable RGB LED using the Ne
+ opixel library and Python on the BBC Microbit. Starting small with a 10 LE
+ D attached to a Microbit and then upgrade once the code is working to stri
+ ngs of 300. \nJoin us for an exciting 60 minute workshop where your child 
+ will delve into the world of coding using the innovative BBC Microbit and 
+ Neopixels. This hands-on session is tailored to match the Key Stage 3 & 4 
+ computing curriculum\, making it a valuable addition to your child’s edu
+ cation while keeping it fun and engaging. \nIn the workshop children will 
+ create a simple device that changes the lights\, teaching them essential p
+ rogramming concepts such as variables\, loops\, conditionals\, and functio
+ ns. The workshop is more than just a coding lesson\; it’s an introductio
+ n to how technology integrates into various aspects of our industries\, fr
+ om manufacturing to creative arts. \nThis session is a fantastic way for y
+ our child to see the real-world impact of technology and to spark their in
+ terest in innovation and tech careers.\n\nAttending this workshop will cos
+ t: \nSuitable age range: 7 to 12 though 9 to 12 is better.\nAttendees shou
+ ld bring: Nothing\n\nLink: https://www.emfcamp.org/schedule/2024/465-300-a
+ ddressable-led-strings-with-microbits-python
+LOCATION:Youth Workshop
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Psychiceyeclix 
@@ -3549,6 +3589,35 @@ DESCRIPTION:For Kids\, AFOL's (adult fan of lego)\, I would like to bring
 LOCATION:Youth Workshop
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Yaxu - Live coding / auto-live coding
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240602T002000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240602T010000
+UID:2024-557
+DESCRIPTION:An algorave-style live coding performance from the movement's 
+ aging co-founder Yaxu (aka Alex McLean)\, using the new\, accessible and f
+ ree/open source Strudel live-coding environment (https://strudel.cc). This
+  improvised from-scratch performance will include an attempt at the develo
+ ping practice of "auto-live coding" - 'auto' in the sense of self-acting (
+ the opposite of automatic)\, where I try to run myself algorithms verbally
+ \, inspired by South Indian artform of Konnakol. Come and enjoy the <strik
+ e>future</strike> past of electronic music.\n\nhttps://www.youtube.com/wat
+ ch?v=fIuqDKzYBzc&t=315s\nhttps://yaxu.org\nhttps://algorave.com/yaxu/\n\nL
+ ink: https://www.emfcamp.org/schedule/2024/557-yaxu-live-coding-auto-live-
+ coding
+LOCATION:Stage B
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Friday Nite Rites - The Music Takes Over
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240531T200000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240601T010000
+UID:2024-670
+DESCRIPTION:Once the bottle has been opened and we have achieved the Nirva
+ na of being out wur chicken\, we descend into a world of Techno brought by
+  Allie and friends.\n\nLink: https://www.emfcamp.org/schedule/2024/670-fri
+ day-nite-rites-the-music-takes-over
+LOCATION:Scottish Consulate
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:bit:birds: build & code micro:bit pipecleaner birds as part of the
   EMF flock
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240531T153000
@@ -3643,6 +3712,25 @@ DESCRIPTION:In this fun craft workshop we will prepare our own easy-to-use
   you can bring your own art materials if you prefer\n\nLink: https://www.e
  mfcamp.org/schedule/2024/422-handmade-database
 LOCATION:Workshop 5 (Maths)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Interact with mothers' q(g)uilt
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240531T133000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240531T150000
+UID:2024-671
+DESCRIPTION:Come and interact with our digital augmented quilt. \nOur proj
+ ect explores mums’ experiences of baby feeding decisions. The interactiv
+ e project is inspired by the Welsh quilting tradition\, bringing communiti
+ es together through crafting\, whilst digital touch points stitched into t
+ he quilt allow mothers stories to be heard. \nIf you want you can give us 
+ some feedback about the way it make you feel through a survey. \nThe stori
+ es embedded in the quilt range from positive and uplifting to potentially 
+ distressing\, including mention of illness\, birth complications and feedi
+ ng problems. Please make sure to safeguard yourself if you think you might
+  be triggered by those topics.\n\nAttending this workshop will cost: \nSui
+ table age range: All ages\nAttendees should bring: \n\nLink: https://www.e
+ mfcamp.org/schedule/2024/671-interact-with-mothers-q-g-uilt
+LOCATION:Lounge
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Build and fly a rocket!
@@ -4330,24 +4418,6 @@ DESCRIPTION:I was trained as a tax lawyer and data scientist as a professi
  soned professionals alike.\n\nLink: https://www.emfcamp.org/schedule/2024/
  186-from-tax-law-to-tangible-dreams-an-accidental-makers-journey
 LOCATION:Stage C
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Yaxu - Live coding / auto-live coding
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240602T002000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240602T010000
-UID:2024-557
-DESCRIPTION:An algorave-style live coding performance from the movement's 
- aging co-founder Yaxu (aka Alex McLean)\, using the new\, accessible and f
- ree/open source Strudel live-coding environment (https://strudel.cc). This
-  improvised from-scratch performance will include an attempt at the develo
- ping practice of "auto-live coding" - 'auto' in the sense of self-acting (
- the opposite of automatic)\, where I try to run myself algorithms verbally
- \, inspired by South Indian artform of Konnakol. Come and enjoy the <strik
- e>future</strike> past of electronic music.\n\nhttps://www.youtube.com/wat
- ch?v=fIuqDKzYBzc&t=315s\nhttps://yaxu.org\nhttps://algorave.com/yaxu/\n\nL
- ink: https://www.emfcamp.org/schedule/2024/557-yaxu-live-coding-auto-live-
- coding
-LOCATION:Stage B
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Humble Data Workshop
@@ -5079,15 +5149,6 @@ DESCRIPTION:You don't have to be an English graduate or a nepo-baby to bec
 LOCATION:Workshop 3 (Furry High Commission)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lightning talks  (Saturday)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240601T161000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240601T165000
-UID:2024-548
-DESCRIPTION:Short 10 minute talks on any topic\n\nLink: https://www.emfcam
- p.org/schedule/2024/548-lightning-talks-saturday
-LOCATION:Stage C
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Feral Five and Jonathan Hogg present Truth Is The New Gold 
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240601T224000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240601T232000
@@ -5107,6 +5168,15 @@ DESCRIPTION:Dazzling electronic duo Feral Five and artist/technologist Jon
  nk: https://www.emfcamp.org/schedule/2024/196-feral-five-and-jonathan-hogg
  -present-truth-is-the-new-gold
 LOCATION:Stage B
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lightning talks  (Saturday)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240601T161000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240601T165000
+UID:2024-548
+DESCRIPTION:Short 10 minute talks on any topic\n\nLink: https://www.emfcam
+ p.org/schedule/2024/548-lightning-talks-saturday
+LOCATION:Stage C
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Opening Ceremony
@@ -5250,9 +5320,9 @@ DESCRIPTION:A modern spin on leather work. Laser cut leather pieces that c
  ods to explore at home from using a printer\, Circuit or laser cutter will
   be shown for those who would like to experiment further.\n\nAttending thi
  s workshop will cost: £15-£50 depending on kits chosen.\nSuitable age ra
- nge: 12-99\nAttendees should bring: Non. A laptop can be brought along to 
- explore CAD software.\n\nLink: https://www.emfcamp.org/schedule/2024/393-l
- aser-cut-leather
+ nge: 12-99\nAttendees should bring: None. A laptop can be brought along to
+  explore CAD software.\n\nLink: https://www.emfcamp.org/schedule/2024/393-
+ laser-cut-leather
 LOCATION:Workshop 1 (NottingHack)
 END:VEVENT
 END:VCALENDAR

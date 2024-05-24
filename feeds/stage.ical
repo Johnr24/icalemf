@@ -251,13 +251,8 @@ UID:2024-538
 DESCRIPTION:It's no secret that the tech sector is notoriously lacking in 
  unionisation compared to more traditional industries\; We'd like to talk a
  bout why this might be\, why it's a bad thing for everyone\, and how we mi
- ght go about fixing it.\n\nWe'll let you know about some rights you have a
- s a worker that you might not realise you have\, we'll regale some war sto
- ries of those rights in action\, and we'll try to make the task of organis
- ing your workplace seem much less daunting. Most of the information held w
- ithin will be specific to workers in the UK\, but we hope to impart some t
- houghts that are applicable to workers everywhere!\n\nLink: https://www.em
- fcamp.org/schedule/2024/538-contrary-to-popular-belief-tech-needs-unions
+ ght go about fixing it.\n\nLink: https://www.emfcamp.org/schedule/2024/538
+ -contrary-to-popular-belief-tech-needs-unions
 LOCATION:Stage A
 END:VEVENT
 BEGIN:VEVENT
@@ -1858,6 +1853,24 @@ DESCRIPTION:What does a computer programmer do if they can’t type code?
 LOCATION:Stage C
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Yaxu - Live coding / auto-live coding
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240602T002000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240602T010000
+UID:2024-557
+DESCRIPTION:An algorave-style live coding performance from the movement's 
+ aging co-founder Yaxu (aka Alex McLean)\, using the new\, accessible and f
+ ree/open source Strudel live-coding environment (https://strudel.cc). This
+  improvised from-scratch performance will include an attempt at the develo
+ ping practice of "auto-live coding" - 'auto' in the sense of self-acting (
+ the opposite of automatic)\, where I try to run myself algorithms verbally
+ \, inspired by South Indian artform of Konnakol. Come and enjoy the <strik
+ e>future</strike> past of electronic music.\n\nhttps://www.youtube.com/wat
+ ch?v=fIuqDKzYBzc&t=315s\nhttps://yaxu.org\nhttps://algorave.com/yaxu/\n\nL
+ ink: https://www.emfcamp.org/schedule/2024/557-yaxu-live-coding-auto-live-
+ coding
+LOCATION:Stage B
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:CHERI and Morello: mitigating the terrible legacy of memory-safety
   security issues\, in practice at scale
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240531T173000
@@ -2337,24 +2350,6 @@ DESCRIPTION:I was trained as a tax lawyer and data scientist as a professi
 LOCATION:Stage C
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Yaxu - Live coding / auto-live coding
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240602T002000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240602T010000
-UID:2024-557
-DESCRIPTION:An algorave-style live coding performance from the movement's 
- aging co-founder Yaxu (aka Alex McLean)\, using the new\, accessible and f
- ree/open source Strudel live-coding environment (https://strudel.cc). This
-  improvised from-scratch performance will include an attempt at the develo
- ping practice of "auto-live coding" - 'auto' in the sense of self-acting (
- the opposite of automatic)\, where I try to run myself algorithms verbally
- \, inspired by South Indian artform of Konnakol. Come and enjoy the <strik
- e>future</strike> past of electronic music.\n\nhttps://www.youtube.com/wat
- ch?v=fIuqDKzYBzc&t=315s\nhttps://yaxu.org\nhttps://algorave.com/yaxu/\n\nL
- ink: https://www.emfcamp.org/schedule/2024/557-yaxu-live-coding-auto-live-
- coding
-LOCATION:Stage B
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Mother Vulture
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240531T220000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240531T225000
@@ -2747,15 +2742,6 @@ DESCRIPTION:Hoffman has been making music and DJing for over 30 years. Cut
 LOCATION:Stage B
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lightning talks  (Saturday)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240601T161000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240601T165000
-UID:2024-548
-DESCRIPTION:Short 10 minute talks on any topic\n\nLink: https://www.emfcam
- p.org/schedule/2024/548-lightning-talks-saturday
-LOCATION:Stage C
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Feral Five and Jonathan Hogg present Truth Is The New Gold 
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240601T224000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240601T232000
@@ -2775,6 +2761,15 @@ DESCRIPTION:Dazzling electronic duo Feral Five and artist/technologist Jon
  nk: https://www.emfcamp.org/schedule/2024/196-feral-five-and-jonathan-hogg
  -present-truth-is-the-new-gold
 LOCATION:Stage B
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lightning talks  (Saturday)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240601T161000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240601T165000
+UID:2024-548
+DESCRIPTION:Short 10 minute talks on any topic\n\nLink: https://www.emfcam
+ p.org/schedule/2024/548-lightning-talks-saturday
+LOCATION:Stage C
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Opening Ceremony
