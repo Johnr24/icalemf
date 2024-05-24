@@ -1,0 +1,37 @@
+BEGIN:VCALENDAR
+BEGIN:VEVENT
+SUMMARY:Hackspace Foundation Meetup
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240601T110000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240601T130000
+UID:2024-105
+DESCRIPTION:This is a meet-up of Makerspaces and Hackspaces to talk about 
+ what’s going on. It’s aimed at trustees/directors\, but it’s open to
+  anyone.\n\nAttending this workshop will cost: \nSuitable age range: Any\n
+ Attendees should bring: None\n\nLink: https://www.emfcamp.org/schedule/202
+ 4/105-hackspace-foundation-meetup
+LOCATION:Main Bar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Run 5K EMF Camp
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240601T084500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240601T094500
+UID:2024-608
+DESCRIPTION:Based on a Park Run\, This is a chance for anyone to come and 
+ run a 5K. We are planning to keep the course simple. No pressure to run fa
+ st\, this is about just about completing and hopefully promoting the benef
+ its of running. If you walk it then your still amazing. \n\nWe will meet b
+ y the main bar at 8.45 (Mitchell + Emma will have RunThrough hoodies on) a
+ nd head out. Kids are very welcome to come. Plus if you got Strava you can
+  claim a virtual medal's from a few places. \n\nBoth Mitchell And Emma are
+  regular runners and we just want to share the love and build friendships.
+  This can be a good escape for a bit. We will be tail walking so no one wi
+ ll be on their own. \n\nWe can be found in the #Parkrunners on discord. \n
+ \nWant to have a chat before hand we are the the ECHQ village.\nIf not her
+ e are some other ways\nVia phones: 7787 (PRUN)\nAmateur Radio: 2E0EMO / M7
+ ORN (You do need to hold a amateur radio license)\nDiscord: Havoctechie\n\
+ nAttending this workshop will cost: \nSuitable age range: All ages\nAttend
+ ees should bring: Trainers (comfortable for running in)\n\nLink: https://w
+ ww.emfcamp.org/schedule/2024/608-run-5k-emf-camp
+LOCATION:Main Bar
+END:VEVENT
+END:VCALENDAR

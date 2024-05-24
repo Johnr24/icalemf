@@ -3791,6 +3791,25 @@ DESCRIPTION:Air pollution is a major public health issue but you’d be su
 LOCATION:Workshop 2 (Milliways)
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Interact with mother's q(g)uilt
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240601T174500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240601T190000
+UID:2024-672
+DESCRIPTION:Come and interact with our digital augmented quilt. \nOur proj
+ ect explores mums’ experiences of baby feeding decisions. The interactiv
+ e project is inspired by the Welsh quilting tradition\, bringing communiti
+ es together through crafting\, whilst digital touch points stitched into t
+ he quilt allow mothers stories to be heard. \nIf you want you can give us 
+ some feedback about the way it make you feel through a survey. \n\nThe sto
+ ries embedded in the quilt range from positive and uplifting to potentiall
+ y distressing\, including mention of illness\, birth complications and fee
+ ding problems. Please make sure to safeguard yourself if you think you mig
+ ht be triggered by those topics.\n\nAttending this workshop will cost: \nS
+ uitable age range: All ages\nAttendees should bring: \n\nLink: https://www
+ .emfcamp.org/schedule/2024/672-interact-with-mothers-q-g-uilt
+LOCATION:Lounge
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Karaoke: Saturday Night
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240601T200000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240601T230000

@@ -21,6 +21,10 @@ stage_cal = Calendar()
 workshop_cal = Calendar()
 nullsector_cal = Calendar()
 village_cal = Calendar()
+youth_workshop_cal = Calendar()
+sense_cal = Calendar()
+main_bar_cal = Calendar()
+Lounges_cal = Calendar()
 
 # Iterate over the events in the existing calendar
 for event in cal.walk('vevent'):
@@ -28,14 +32,28 @@ for event in cal.walk('vevent'):
     if 'stage' in event.get('location', '').lower():
         stage_cal.add_component(event)
 for event in cal.walk('vevent'):
-    if 'workshop' in event.get('location', '').lower():
+    if 'workshop' in event.get('location', '').lower() and 'youth' not in event.get('location', '').lower():
         workshop_cal.add_component(event)
 for event in cal.walk('vevent'):
     if 'sector' in event.get('location', '').lower():
         nullsector_cal.add_component(event)
 for event in cal.walk('vevent'):
-    if event.get('location', '') in village_names:
+    if event.get('location', '') in village_names or 'lockpicking village tent' or 'Tekhnē-cal Village' in event.get('location', '').lower():
         village_cal.add_component(event)
+for event in cal.walk('vevent'):
+    if 'youth' in event.get('location', '').lower():
+        youth_workshop_cal.add_component(event)
+for event in cal.walk('vevent'):
+    if 'sense' in event.get('location', '').lower():
+        sense_cal.add_component(event)
+for event in cal.walk('vevent'):
+    if 'main bar' in event.get('location', '').lower():
+        main_bar_cal.add_component(event)
+for event in cal.walk('vevent'):
+    if 'lounges' in event.get('location', '').lower():
+        Lounges_cal.add_component(event)
+
+
         
 # Write the filtered calendar to a new .ical file
 with open('./feeds/stage.ical', 'wb') as file:
@@ -46,3 +64,11 @@ with open('./feeds/nullsector.ical', 'wb') as file:
     file.write(nullsector_cal.to_ical())
 with open('./feeds/village.ical', 'wb') as file:
     file.write(village_cal.to_ical())
+with open('./feeds/youth_workshop.ical', 'wb') as file:
+    file.write(youth_workshop_cal.to_ical())
+with open('./feeds/sensewithoutsite.ical', 'wb') as file:
+    file.write(sense_cal.to_ical())
+with open('./feeds/main_bar.ical', 'wb') as file:
+    file.write(main_bar_cal.to_ical())
+with open('./feeds/Lounges.ical', 'wb') as file:
+    file.write(Lounges_cal.to_ical())
