@@ -3,7 +3,7 @@ import requests
 
 year = 24
 # Download the 2024.ical file from the given URL
-url = 'https://www.emfcamp.org/schedule/2022.ical'
+url = 'https://www.emfcamp.org/schedule/2024.ical'
 response = requests.get(url)
 with open('./2024.ical', 'wb') as file:
     file.write(response.content)
