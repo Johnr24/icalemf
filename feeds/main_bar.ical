@@ -1,17 +1,5 @@
 BEGIN:VCALENDAR
 BEGIN:VEVENT
-SUMMARY:Hackspace Foundation Meetup
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240601T110000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240601T130000
-UID:2024-105
-DESCRIPTION:This is a meet-up of Makerspaces and Hackspaces to talk about 
- what’s going on. It’s aimed at trustees/directors\, but it’s open to
-  anyone.\n\nAttending this workshop will cost: \nSuitable age range: Any\n
- Attendees should bring: None\n\nLink: https://www.emfcamp.org/schedule/202
- 4/105-hackspace-foundation-meetup
-LOCATION:Main Bar
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Run 5K EMF Camp
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240601T084500
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240601T094500
@@ -31,7 +19,49 @@ DESCRIPTION:Based on a Park Run\, This is a chance for anyone to come and
  ORN (You do need to hold a amateur radio license)\nDiscord: Havoctechie\n\
  nAttending this workshop will cost: \nSuitable age range: All ages\nAttend
  ees should bring: Trainers (comfortable for running in)\n\nLink: https://w
- ww.emfcamp.org/schedule/2024/608-run-5k-emf-camp
+ ww.emfcamp.org/schedule/2024/608-run-5k-emf-camp\nVenue: Main Bar (https:/
+ /map.emfcamp.org/#18.5/52.0418/-2.37727/m=52.0418\,-2.37727)
+LOCATION:Main Bar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Online Amateur Radio Club (OARC) Meetup 
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240601T200000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240601T220000
+UID:2024-676
+DESCRIPTION:A meetup for members of the Online Amateur Radio Community (OA
+ RC)\, anyone else interested in Amateur Radio\, or anyone else for that ma
+ tter.\n\nExact meeting point TBC\, talk in frequency TBC\n\n\n\nAttending 
+ this workshop will cost: \nSuitable age range: Aimed at adults\, but super
+ vised kids welcome.\nAttendees should bring: \n\nLink: https://www.emfcamp
+ .org/schedule/2024/676-online-amateur-radio-club-oarc-meetup\nVenue: Main 
+ Bar (https://map.emfcamp.org/#18.5/52.0418/-2.37727/m=52.0418\,-2.37727)
+LOCATION:Main Bar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Autism/ADHD/Neurodiversity Gathering
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240602T140000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240602T150000
+UID:2024-699
+DESCRIPTION:At EMF 2022 I was not diagnosed\, but attended the Autism/ADHD
+  gathering and found my people! I now have a diagnosis\; I'm Autistic. Let
+ 's have a pint or two together and talk.\n\nAttending this workshop will c
+ ost: \nSuitable age range: All ages\nAttendees should bring: -\n\nLink: ht
+ tps://www.emfcamp.org/schedule/2024/699-autism-adhd-neurodiversity-gatheri
+ ng\nVenue: Main Bar (https://map.emfcamp.org/#18.5/52.0418/-2.37727/m=52.0
+ 418\,-2.37727)
+LOCATION:Main Bar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mastodon.me.uk (and fediverse friends) Tootup
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240531T210000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240531T220000
+UID:2024-700
+DESCRIPTION:A casual bar meetup for fediverse/mastodon folks organised by 
+ the admins and mods of mastodon.me.uk. All welcome!\n\nAttending this work
+ shop will cost: \nSuitable age range: Aimed at adults\, but supervised kid
+ s welcome.\nAttendees should bring: \n\nLink: https://www.emfcamp.org/sche
+ dule/2024/700-mastodon-me-uk-and-fediverse-friends-tootup\nVenue: Main Bar
+  (https://map.emfcamp.org/#18.5/52.0418/-2.37727/m=52.0418\,-2.37727)
 LOCATION:Main Bar
 END:VEVENT
 END:VCALENDAR

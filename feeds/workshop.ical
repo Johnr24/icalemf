@@ -7,7 +7,8 @@ UID:2024-542
 DESCRIPTION:Karaoke returns to EMF!\nWe aim to keep the first hour family 
  friendly.\n\nAttending this workshop will cost: \nSuitable age range: \nAt
  tendees should bring: \n\nLink: https://www.emfcamp.org/schedule/2024/542-
- karaoke-friday-night
+ karaoke-friday-night\nVenue: Workshop 4 (FieldFX) (https://map.emfcamp.org
+ /#18.5/52.043289/-2.375978/m=52.043289\,-2.375978)
 LOCATION:Workshop 4 (FieldFX)
 END:VEVENT
 BEGIN:VEVENT
@@ -18,7 +19,8 @@ UID:2024-544
 DESCRIPTION:Karaoke returns to EMF!\nWe aim to keep the first hour family 
  friendly.\n\nAttending this workshop will cost: \nSuitable age range: \nAt
  tendees should bring: \n\nLink: https://www.emfcamp.org/schedule/2024/544-
- karaoke-sunday-night
+ karaoke-sunday-night\nVenue: Workshop 2 (Milliways) (https://map.emfcamp.o
+ rg/#18.5/52.042808/-2.376136/m=52.042808\,-2.376136)
 LOCATION:Workshop 2 (Milliways)
 END:VEVENT
 BEGIN:VEVENT
@@ -41,7 +43,9 @@ DESCRIPTION:Ever look around and feel like 3D Printing is only useful for
  ou want to print something\; otherwise free\nSuitable age range: 16+\nAtte
  ndees should bring: A laptop and mouse\, the software can be downloaded an
  d installed at the workshop\n\nLink: https://www.emfcamp.org/schedule/2024
- /412-not-just-for-toys-trinkets-learn-how-cad
+ /412-not-just-for-toys-trinkets-learn-how-cad\nVenue: Workshop 2 (Milliway
+ s) (https://map.emfcamp.org/#18.5/52.042808/-2.376136/m=52.042808\,-2.3761
+ 36)
 LOCATION:Workshop 2 (Milliways)
 END:VEVENT
 BEGIN:VEVENT
@@ -61,29 +65,30 @@ DESCRIPTION:Come join us for an enchanting workshop where creativity meets
  ingenuity.\n\n\nAttending this workshop will cost: £5\nSuitable age range
  : 12+\nAttendees should bring: Needle nosed pliers\, side cutters\n\nLink:
   https://www.emfcamp.org/schedule/2024/154-making-automata-from-paper-clip
- s-and-beads
+ s-and-beads\nVenue: Workshop 5 (Maths) (https://map.emfcamp.org/#18.5/52.0
+ 40753/-2.377772/m=52.040753\,-2.377772)
 LOCATION:Workshop 5 (Maths)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Learn to crochet and contribute to an EMF community crochet blanke
- t
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240531T110000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240531T130000
-UID:2024-307
-DESCRIPTION:This workshop is aimed at beginners who have never picked up a
-  crochet hook before. You'll learn how to hold your yarn and hook\, practi
- ce the basic crochet stitches\, then choose your own yarn and a simple wri
- tten pattern to follow to make a crochet square (for example: striped squa
- re\, classic granny square\, corner-to-corner square).\n\nWhen you're done
- \, you can take your creation away as a souvenir or contribute it to the E
- MF community crochet blanket which we'll be building throughout the weeken
- d! If you want to keep practicing afterwards\, you'll be able to visit the
-  workshop host and the blanket in Tekhnē-cal Village.\n\nAll materials wi
- ll be provided.\n\nAttending this workshop will cost: \nSuitable age range
- : 8+ with accompanying adult\, 13+ without accompanying adult\nAttendees s
- hould bring: Nothing\n\nLink: https://www.emfcamp.org/schedule/2024/307-le
- arn-to-crochet
-LOCATION:Workshop 5 (Maths)
+SUMMARY:Script your way to circuit boards with CircuitPainter
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240531T103000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240531T113000
+UID:2024-660
+DESCRIPTION:Inspired by the simplified drawing language of Processing\, Ci
+ rcuit Painter provides a scripting environment for designing PCBs using ba
+ sic geometric shapes such as lines\, arcs\, and polygons. Circuit painter 
+ works as a front end / wrapper for KiCad's pcbnew. In this workshop\, we w
+ ill explore the world of generative circuit board design using Circuit Pai
+ nter and KiCad.\nAttendees should bring a laptop\, loaded with KiCad 7 or 
+ 8. Linux\, Windows\, and macOS should be ok.  \n\nLimited to 15 participan
+ ts.  \n\nTo participate\, please sign up at the Hardware Hacking Area (Wor
+ kshop 6 tent) -- there is a sign up sheet there.\n\nAttending this worksho
+ p will cost: \nSuitable age range: All ages\nAttendees should bring: lapto
+ p\, loaded with KiCad 7 or 8\n\nLink: https://www.emfcamp.org/schedule/202
+ 4/660-script-your-way-to-circuit-boards-with-circuitpainter\nVenue: Worksh
+ op 6 (Hardware Hacking) (https://map.emfcamp.org/#18.5/52.041258/-2.375748
+ /m=52.041258\,-2.375748)
+LOCATION:Workshop 6 (Hardware Hacking)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Learn to Solder workshop
@@ -97,28 +102,10 @@ DESCRIPTION:Anyone can learn to solder!  It is useful and fun.  This works
  n use for learning to solder.  I will also give a fun overview of how it w
  orks.  This workshop is for **total newbies** to learn to solder.  All age
  s.  I guarantee your badge will work after you solder it! \n\nAttending th
- is workshop will cost: 10 GBP\nSuitable age range: 4-100\nAttendees should
-  bring: nothing\n\nLink: https://www.emfcamp.org/schedule/2024/171-learn-t
- o-solder-workshop
-LOCATION:Workshop 6 (Hardware Hacking)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Build Your Own Z80 Retro Computer Kit
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240531T120000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240531T130000
-UID:2024-561
-DESCRIPTION:The RC2014 is a Z80 based computer kit that runs Microsoft BAS
- IC\, and introduces you to the cutting edge world of computing in the late
-  1970s!\n\nIn this workshop\, I will take you through the steps involved i
- n building an RC2014 Micro\, explaining how it works\, what you can do wit
- h it\, and\, how to troubleshoot it if necessary. By the end of the worksh
- op you will have a working retro computer to take home that can be plugged
-  in to a laptop.\n\nI will have soldering irons\, wire cutters etc for att
- endees to use\, but feel free to bring your own equipment if you prefer.\n
- \nAttending this workshop will cost: £55\nSuitable age range: 12 years or
-  older. (Under 16s should be accompanied by an adult)\nAttendees should br
- ing: \n\nLink: https://www.emfcamp.org/schedule/2024/561-build-your-own-z8
- 0-retro-computer-kit
+ is workshop will cost: 10 GBP\nSuitable age range: All ages\nAttendees sho
+ uld bring: nothing\n\nLink: https://www.emfcamp.org/schedule/2024/171-lear
+ n-to-solder-workshop\nVenue: Workshop 6 (Hardware Hacking) (https://map.em
+ fcamp.org/#18.5/52.041258/-2.375748/m=52.041258\,-2.375748)
 LOCATION:Workshop 6 (Hardware Hacking)
 END:VEVENT
 BEGIN:VEVENT
@@ -143,101 +130,26 @@ DESCRIPTION:Get ready to unleash your creativity and delve into the ancien
  with parental supervision.\n\nI'll provide cord and easy-to-follow instruc
  tions for several beginner-friendly projects.\n\n\nAttending this workshop
   will cost: £5\nSuitable age range: All ages\nAttendees should bring: \n\
- nLink: https://www.emfcamp.org/schedule/2024/128-applied-string-theory
+ nLink: https://www.emfcamp.org/schedule/2024/128-applied-string-theory\nVe
+ nue: Workshop 2 (Milliways) (https://map.emfcamp.org/#18.5/52.042808/-2.37
+ 6136/m=52.042808\,-2.376136)
 LOCATION:Workshop 2 (Milliways)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tool and Knife Sharpening
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240531T100000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240531T160000
-UID:2024-81
-DESCRIPTION:We plan on having 5 sharpening setups using stones and other m
- anual sharpening tools\, along with an array of knives and tool blades (sp
- raypainted bright pink for security reasons) to allow people to learn and 
- practice hand-sharpening in an open drop in/out style.\n\nAny potentially 
- dangerous equipment will be securely locked away when not in use and we'll
-  have a full first-aid kit on hand along with a trained first-aider.\n\nA 
- small continuously running workshop teaching the basics of manual knife an
- d tool sharpening. 18+\, 12+ if supervised by an adult.\n\nAttending this 
- workshop will cost: \nSuitable age range: 18+\, 12+ if supervised by an ad
- ult\nAttendees should bring: None\n\nLink: https://www.emfcamp.org/schedul
- e/2024/81-tool-and-knife-sharpening
-LOCATION:Workshop 0 (Drop-in)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:An introduction to the post-apocalyptic skill of spinning yarn
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240531T153000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240531T173000
-UID:2024-438
-DESCRIPTION:Many know how jumpers are knitted or fabrics are woven\, but w
- hat happens before that? How do you get from sheep to thread?\n\nIn this w
- orkshop we will spin our own yarn\, talk about the basics of hand spinning
-  and have plenty of space to try things out and ask questions.\n\nWe will 
- have wool and some ready-made hand spindles as well as kits so that you ca
- n build your own.\n\nAttending this workshop will cost: expanses for mater
- ial are about 4 pounds per participant\, pay what you want/can afford\nSui
- table age range: from about 10 years\nAttendees should bring: \n\nLink: ht
- tps://www.emfcamp.org/schedule/2024/438-an-introduction-to-the-post-apocal
- yptic-skill-of-spinning
-LOCATION:Workshop 1 (NottingHack)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Morning Pop-Up Cafe
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240601T083000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240601T093000
 UID:2024-525
-DESCRIPTION:We will be serving morning tea and coffee - please bring your 
- own mug/flask or you can buy a mug from us (limited in supply!). We will a
- lso have some tea and coffee available through the day from a urn at our t
- ent.\n\nAttending this workshop will cost: £1\nSuitable age range: All ag
- es\nAttendees should bring: Mug or flask - We'll have some mugs for sale.\
- n\nLink: https://www.emfcamp.org/schedule/2024/525-morning-pop-up-cafe
+DESCRIPTION:We will be serving morning tea and fresh strong coffee if you'
+ re up and about early. Hang about\, have a chat.\nPlease bring your own mu
+ g/flask if you can - We'll have a limited supply.\nTea and coffee is avail
+ able through the day and at our workshops from the urn in  our tent. \n\nA
+ ttending this workshop will cost: £1\nSuitable age range: All ages\nAtten
+ dees should bring: Mug or flask - We'll have some mugs for sale.\n\nLink: 
+ https://www.emfcamp.org/schedule/2024/525-morning-pop-up-cafe\nVenue: Work
+ shop 1 (NottingHack) (https://map.emfcamp.org/#18.5/52.042597/-2.375188/m=
+ 52.042597\,-2.375188)
 LOCATION:Workshop 1 (NottingHack)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Soldering Workshop (Beginners)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240531T133000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240531T150000
-UID:2024-531
-DESCRIPTION:Badge soldering workshop for people who haven't soldered befor
- e - you can learn how to solder with a simple LED badge kit! Younger child
- ren can do this with parental supervision. This will not take the full 90 
- minutes\, so feel free to drop in. Maximum of 10 people at a time.\n\nAtte
- nding this workshop will cost: £3\nSuitable age range: Aimed at adults\, 
- but supervised kids welcome.\nAttendees should bring: Badge and soldering 
- equipment provided. Children must be supervised.\n\nLink: https://www.emfc
- amp.org/schedule/2024/531-soldering-workshop-beginners
-LOCATION:Workshop 1 (NottingHack)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Eavesdropping on Eastnor’s bats: an introduction to bioacoustics
-  in the field
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240601T130000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240601T143000
-UID:2024-361
-DESCRIPTION:The EMF site is home to bats\, with possibly up to 15 species 
- in the area. In this workshop\, attendees will learn about "bioacoustics"\
- , and how to process and analyse recordings of bats with free and open sou
- rce software\, to work out which species of bats were recorded. Attendees 
- will leave with basic knowledge of bioacoustics\, how different types of b
- at recorders work\, and how different species of bats communicate.\n\n\n\n
- \nAttending this workshop will cost: \nSuitable age range: 14+\nAttendees 
- should bring: Laptop\n\nLink: https://www.emfcamp.org/schedule/2024/361-ea
- vesdropping-on-eastnor-s-bats
-LOCATION:Workshop 2 (Milliways)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mathematical Origami: Kaleidocycle Folding 
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240601T133000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240601T140000
-UID:2024-563
-DESCRIPTION:Get ready to fold your own Flexagons\, a bizarre mathematical 
- shape with two faces which can be flexed to reveal a hidden face out of no
- where! Use them as a way to send secret notes or a fun fidget or stim toy.
- \n\n\nAttending this workshop will cost: \nSuitable age range: around 10 u
- pwards\nAttendees should bring: None\n\nLink: https://www.emfcamp.org/sche
- dule/2024/563-mathematical-origami-kaleidocycle-folding
-LOCATION:Workshop 5 (Maths)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mathematical Origami: Kaleidocycle Folding 
@@ -251,149 +163,68 @@ DESCRIPTION:Get ready to fold your own Flexagons\, a bizarre mathematical
  nto the next dimension by creating Kaleidocycles\, a 3D version of the Fle
  xagon.\nYou will have time to flex your artistic flare and decorate your c
  reations to highlight their unusual geometry.\n\nAttending this workshop w
- ill cost: \nSuitable age range: around 10 upwards\nAttendees should bring:
-  None\n\nLink: https://www.emfcamp.org/schedule/2024/296-mathematical-orig
- ami-kaleidocycle-folding
+ ill cost: \nSuitable age range: 10+\nAttendees should bring: None\n\nLink:
+  https://www.emfcamp.org/schedule/2024/296-mathematical-origami-kaleidocyc
+ le-folding\nVenue: Workshop 5 (Maths) (https://map.emfcamp.org/#18.5/52.04
+ 0753/-2.377772/m=52.040753\,-2.377772)
 LOCATION:Workshop 5 (Maths)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Making dipped beeswax candles
+SUMMARY:Pysanka - Ukrainian Easter egg decorating
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240531T133000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240531T153000
+UID:2024-326
+DESCRIPTION:A workshop in Ukrainian ages-old techniques of Easter egg deco
+ ration. Children are welcome but the techniques are challenging so grownup
+  assistance would be required.\n\n1. Melt beewax in the wax pen over the b
+ urning candle.\n2. Draw with melted wax on hollow eggshells\, then submerg
+ e them into coloring. Repeat drawing and submerging.\n3. Wipe the wax.\n4.
+  Enjoy your fascinating artwork!\n\nVideos showing examples and some histo
+ rical and cultural background:\n\nhttps://www.youtube.com/watch?v=BhG0Dsou
+ U-I\nhttps://www.youtube.com/watch?v=bvsispnCBKc\nhttps://www.youtube.com/
+ watch?v=dffnbXAIVrQ\n\nAttending this workshop will cost: \nSuitable age r
+ ange: 5+\nAttendees should bring: \n\nLink: https://www.emfcamp.org/schedu
+ le/2024/326-pysanka-ukrainian-easter-egg-decorating\nVenue: Workshop 4 (Fi
+ eldFX) (https://map.emfcamp.org/#18.5/52.043289/-2.375978/m=52.043289\,-2.
+ 375978)
+LOCATION:Workshop 4 (FieldFX)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surface mount electronics assembly for terrified beginners
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240531T183000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240531T203000
+UID:2024-192
+DESCRIPTION:In this workshop\, we will learn to handle the tiniest electro
+ nic components\, which are used to make modern electronic devices. We will
+  cheat the same way the electronics industry does\, and use the techniques
+  of stencil paste printing and reflow soldering. We will also learn a tech
+ nique that stops your hands from shaking\, so you can very very precisely 
+ place microscopic parts. No prior experience or knowledge of anything elec
+ tronic needed. Caffeine use is not recommended immediately before. All too
+ ls are provided.\n\nAttending this workshop will cost: 20 for those that w
+ ant to make their own board\, free to observe\nSuitable age range: 12+\nAt
+ tendees should bring: no equipment needed\n\nLink: https://www.emfcamp.org
+ /schedule/2024/192-surface-mount-electronics-assembly-for-terrified-beginn
+ ers\nVenue: Workshop 6 (Hardware Hacking) (https://map.emfcamp.org/#18.5/5
+ 2.041258/-2.375748/m=52.041258\,-2.375748)
+LOCATION:Workshop 6 (Hardware Hacking)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Maths Busking Workshop
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240602T100000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240602T120000
-UID:2024-358
-DESCRIPTION:We will teach people to make their own dipped beeswax candles 
- using the wax from our bee-hives!\n\nWe have at enough wax for 20 people t
- o make two candles each.\nBut we only have one wax melter so people will h
- ave to take turns.\nMaking two candles takes about 5 minutes. Whilst you a
- re welcome to watch everyone else making theirs\, it might get a bit crowd
- ed so we will run a time slot system for the 2hrs so half the people can s
- ign up to come back later.\n\nAttending this workshop will cost: Donations
-  to help feed the bees would be good\, but people don't need to pay.\nSuit
- able age range: All ages\,  but It involves molten wax so children need to
-  be supervised and probably need to be 8+\nAttendees should bring: \n\nLin
- k: https://www.emfcamp.org/schedule/2024/358-making-dipped-beeswax-candles
-LOCATION:Workshop 2 (Milliways)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Introduction to Magic Tricks (cards & more) 
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240601T150000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240601T170000
-UID:2024-227
-DESCRIPTION:We will open the workshop by reviewing the magicians code\, an
- d swearing that the lessons learned will not be shared with laypeople. \nW
- e will then watch a short magic show. I will next demonstrate a series of 
- basic card moves and teach tricks you can build on them. We will also lear
- n how to make a ribbon disappear and appear again!\nWe will talk about and
-  demonstrate how to make your magic trick delivery build suspense and conv
- ince your spectators they are watching something truly magical.\nFinally\,
-  I will show the attendees resources so that if they wish\, they can conti
- nue their magic journeys.\nAt the end of the workshop attendees will have 
- the tools to perform a short magic routine (if they practice enough!)\, an
- d will know what steps to take should they choose to continue doing magic.
-  \n\n*** Please note: This workshop is designed for people who want to per
- form magic tricks for other people\, rather than for those who just want t
- o learn magic secrets. Additionally\, if you already have a background in 
- magic tricks (eg. if you already know what a DL and a TT is)\, this worksh
- op will likely not be that interesting\, we will be covering basics. ***\n
- \nAttending this workshop will cost: Free\nSuitable age range: 16 and up\n
- Attendees should bring: None required\n\nLink: https://www.emfcamp.org/sch
- edule/2024/227-introduction-to-magic-tricks-cards-more
-LOCATION:Workshop 2 (Milliways)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LED Strips Everywhere for Everyone! workshop
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240531T210000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240531T223000
-UID:2024-172
-DESCRIPTION:Learn how to program LED strips.  It's super easy and fun to m
- ake your life trippy and beautiful.  For total beginners -- no knowledge n
- eeded at all.  LED strips have become really inexpensive. Hackers have cre
- ated many easy methods for controlling them to make patterns and colors. I
- n this workshop you will learn an easy way to control LED strips and make 
- them do what you want.  We will make use a very inexpensive Arduino clone.
-   I'll show you everything you need to know to use existing programs -- as
- -is\, or to hack on -- to control the colors in your world with LED strips
- .\n\nAttending this workshop will cost: 20 GBP\nSuitable age range: 10-100
- \nAttendees should bring: optional: laptop\n\nLink: https://www.emfcamp.or
- g/schedule/2024/172-led-strips-everywhere-for-everyone-workshop
-LOCATION:Workshop 6 (Hardware Hacking)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Luxury Leather Collar Making
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240601T113000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240601T123000
-UID:2024-432
-DESCRIPTION:In this workshop we'll go through the process from start to fi
- nishing of making a leather collar from cutting the material to burnishing
-  the edges. Participants will get to cut\, punch\, smash\, edge\, rub and 
- burnish. We'll focus much of the time on finishing the leather edges to ma
- ke a very refined personal fashion accessory. This is intended for those w
- ho are new to leathercraft.  \n\nVarious colors of leather will be availab
- le\, as well as different kinds of hardware to close and finish the piece.
-  \n\nAttending this workshop will cost: £20\nSuitable age range: 18+\nAtt
- endees should bring: n/a\n\nLink: https://www.emfcamp.org/schedule/2024/43
- 2-luxury-leather-collar-making
-LOCATION:Workshop 3 (Furry High Commission)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Build your own high tech Escape Room puzzles
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240531T143000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240531T163000
-UID:2024-330
-DESCRIPTION:Come and learn how to make your very own Escape Room style ele
- ctronic puzzles using COGS! COGS is a hardware/software platform used in t
- he industry for creating and running all kinds of interactive live experie
- nces such as Escape Rooms and Immersive Theatre shows.\n\nYou'll learn the
-  fundamentals of using both COGS hardware and software in order to connect
-  together all kinds of buttons\, switches\, sensors\, lights\, motors and 
- more. We'll work in groups to build a number of different unique interacti
- ons that all link together to form our very own shared Escape Room experie
- nce.. which we'll then test out on unsuspecting festival-goers!\n\nIdeal f
- or anyone interested in puzzles & games\, live experiences\, creative tech
- nology and more.\n\nNo experience necessary\, everyone is welcome.\n\nAtte
- nding this workshop will cost: \nSuitable age range: 12 and up\nAttendees 
- should bring: A laptop and ideally have already installed COGS from https:
- //account.cogs.show/\n\nLink: https://www.emfcamp.org/schedule/2024/330-bu
- ild-your-own-high-tech-escape-room-puzzles
-LOCATION:Workshop 3 (Furry High Commission)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MadLab soldering workshop
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240601T203000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240601T223000
-UID:2024-141
-DESCRIPTION:Soldering workshop offering a range of kits from very simple f
- lashing light circuits up to Theremins\, Sonic Screwdrivers and mini synth
- s. Suitable for all abilities from absolute beginners to seasoned solderer
- s.\n\nAttending this workshop will cost: Depends on which kit is chosen\, 
- the simplest is £6 and the most expensive £15 to £20\nSuitable age rang
- e: Adult although I've also put in a proposal for a youth workshop\nAttend
- ees should bring: Nothing\, we provide all the equipment needed.\n\nLink: 
- https://www.emfcamp.org/schedule/2024/141-madlab-soldering-workshop
-LOCATION:Workshop 6 (Hardware Hacking)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Furoshiki - The art of fabric wrapping
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240601T173000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240601T180000
-UID:2024-35
-DESCRIPTION:Japanese furoshiki is the artform that allows you to use a sin
- gle square of fabric to wrap almost anything -- you can bundle your swim k
- it to carry it to the pool to or wrap up awkward-shaped gifts to give to y
- our gran. This skill will let you\, in a pinch\, easily carry a watermelon
-  home using your scarf as a bag!\n\nThis style of wrapping is becoming mor
- e popular as an eco-friendly alternative to wrapping paper -- and the clot
- h becomes part of the gift!\n\nFuroshiki is to fabric what origami is to p
- aper. This workshop will require some dexterity and patience - if you have
-  less dexterity then you will require more patience but we'll get there to
- gether!\n\nAttending this workshop will cost: £15 (includes a furoshiki c
- loth to take home)\nSuitable age range: All ages welcome but would be more
-  enjoyable for ages 12+\nAttendees should bring: Bring a variety of items 
- you'd carry on the regular\, such as laptop\, water bottle\, books\, mobil
- e phone and keys\, etc. You will practice wrapping using these items.\n\nL
- ink: https://www.emfcamp.org/schedule/2024/35-furoshiki-the-art-of-fabric-
- wrapping
-LOCATION:Workshop 1 (NottingHack)
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240602T110000
+UID:2024-650
+DESCRIPTION:Maths Busking is a form of street performance that uses mathem
+ atical tricks and curiosities to delight small audiences. Come along and l
+ earn how to perform some mathematical magic tricks and entertain people wi
+ th mathematics\, and then (optionally) come back later to try out your new
+  skills by busking to people waiting in the queue for face painting.\n\nCo
+ me to the Maths Village any time before the session to sign up and guarant
+ ee yourself a space!\n\nAttending this workshop will cost: \nSuitable age 
+ range: 12+\nAttendees should bring: None\n\nLink: https://www.emfcamp.org/
+ schedule/2024/650-maths-busking-workshop\nVenue: Workshop 5 (Maths) (https
+ ://map.emfcamp.org/#18.5/52.040753/-2.377772/m=52.040753\,-2.377772)
+LOCATION:Workshop 5 (Maths)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Data Recovery: No Budget? No Skills? No Problem!
@@ -409,28 +240,9 @@ DESCRIPTION:Cat deleted your uni dissertation? Windows update bricked your
   through in your own time. \n\nAttending this workshop will cost: \nSuitab
  le age range: All ages\nAttendees should bring: Laptop\n\nLink: https://ww
  w.emfcamp.org/schedule/2024/15-data-recovery-no-budget-no-skills-no-proble
- m
+ m\nVenue: Workshop 3 (Furry High Commission) (https://map.emfcamp.org/#18.
+ 5/52.041819/-2.375384/m=52.041819\,-2.375384)
 LOCATION:Workshop 3 (Furry High Commission)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surface mount electronics assembly for terrified beginners
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240531T183000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240531T203000
-UID:2024-192
-DESCRIPTION:In this workshop\, we will learn to handle the tiniest electro
- nic components\, which are used to make modern electronic devices. We will
-  cheat the same way the electronics industry does\, and use the techniques
-  of stencil paste printing and reflow soldering. We will also learn a tech
- nique that stops your hands from shaking\, so you can very very precisely 
- place microscopic parts. No prior experience or knowledge of anything elec
- tronic needed. Caffeine use is not recommended immediately before. All too
- ls are provided.\n\nAttending this workshop will cost: 20 for those that w
- ant to make their own board\, free to observe\nSuitable age range: 12+\, y
- ounger participants welcome if they can do focused work for 2 hours at a t
- ime\nAttendees should bring: no equipment needed\n\nLink: https://www.emfc
- amp.org/schedule/2024/192-surface-mount-electronics-assembly-for-terrified
- -beginners
-LOCATION:Workshop 6 (Hardware Hacking)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Introduction to leatherwork
@@ -453,76 +265,9 @@ DESCRIPTION:This workshop is an absolute beginner’s guide to leatherwork
   \nSuitable age range: 12+\nAttendees should bring: Small sharp scissors w
  ould be helpful for cutting thread - a Swiss Army Knife would be perfect a
  s it can be carried safely.\n\nLink: https://www.emfcamp.org/schedule/2024
- /464-introduction-to-leatherwork
+ /464-introduction-to-leatherwork\nVenue: Workshop 4 (FieldFX) (https://map
+ .emfcamp.org/#18.5/52.043289/-2.375978/m=52.043289\,-2.375978)
 LOCATION:Workshop 4 (FieldFX)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surface mount electronics assembly for terrified beginners
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240602T150000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240602T170000
-UID:2024-663
-DESCRIPTION:In this workshop\, we will learn to handle the tiniest electro
- nic components\, which are used to make modern electronic devices. We will
-  cheat the same way the electronics industry does\, and use the techniques
-  of stencil paste printing and reflow soldering. We will also learn a tech
- nique that stops your hands from shaking\, so you can very very precisely 
- place microscopic parts. No prior experience or knowledge of anything elec
- tronic needed. Caffeine use is not recommended immediately before. All too
- ls are provided.\n\nAttending this workshop will cost: 20 for those that w
- ant to make their own board\, free to observe\nSuitable age range: 12+\, y
- ounger participants welcome if they can do focused work for 2 hours at a t
- ime\nAttendees should bring: no equipment needed\n\nLink: https://www.emfc
- amp.org/schedule/2024/663-surface-mount-electronics-assembly-for-terrified
- -beginners
-LOCATION:Workshop 6 (Hardware Hacking)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Digital Music Synthesis/Solder workshop with ArduTouch music synth
- esizer kit
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240531T133000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240531T160000
-UID:2024-167
-DESCRIPTION:Anyone can learn to solder!  And anyone can learn to make musi
- c\, sound (and noise!) with computer chips!  All participants will easily 
- learn all of this by making an ArduTouch music synthesizer from an open ha
- rdware kit.  This workshop is for everyone -- even total beginners.\n\nArd
- uTouch is designed for total beginners to learn to solder\, as well as to 
- learn Digital Signal Processing for making sound.  It is called ArduTouch 
- because it is based on Arduino\, and it has a touch keyboard.  It also has
-  a built-in speaker/amp\, so you can play/perform wherever you go.\n\nArdu
- Touch comes pre-programmed with a way nice 4-voice sawtooth waveform\, but
-  can be easily re-programmed with other way different synths\, including a
- lready available drums\, drones\, noise\, arpegios\, and more\; or with sy
- nths of your own making.\n\nAttending this workshop will cost: 30 GBP (plu
- s optional 5 GBP for USB-Serial Cable for programming)\nSuitable age range
- : 10-100\nAttendees should bring: optional: laptop\n\nLink: https://www.em
- fcamp.org/schedule/2024/167-digital-music-synthesis-solder-workshop
-LOCATION:Workshop 6 (Hardware Hacking)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Build Your Own Satellite Ground Station 📡
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240601T153000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240601T173000
-UID:2024-61
-DESCRIPTION:Are you fascinated by space and want to learn how to receive d
- ata from satellites and weather probes? Join us in this TinyGS Station Wor
- kshop where you’ll build and program your ground station and antenna to 
- receive data from space. This hands-on\, beginner-friendly workshop is per
- fect for anyone interested in radio\, electronics\, IOT\, antenna design\,
-  and space exploration.\n\nAbout TinyGS: TinyGS is an open community-run n
- etwork of Ground Stations distributed around the world to receive and oper
- ate LoRa satellites\, weather probes and other flying objects\, using chea
- p and versatile modules. With a TinyGS ground station\, you can receive da
- ta from a variety of sources\, such as CubeSats.\n\nWhat You’ll Learn: D
- uring the workshop\, you’ll learn how to build and program a TinyGS grou
- nd station and a quarter-wave ground plane antenna. No prior experience is
-  required\, and we’ll provide all the necessary materials\, tools\, and 
- equipment to guide you through the process.\n\nAttending this workshop wil
- l cost: £70\nSuitable age range: 18 plus\nAttendees should bring: A devic
- e with Telegram installed. I would link people to the instructions too enc
- ase they find my Irish accent hard to understand.\n\nLink: https://www.emf
- camp.org/schedule/2024/61-build-your-own-satellite-ground-station
-LOCATION:Workshop 3 (Furry High Commission)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:MathsJam
@@ -534,49 +279,15 @@ DESCRIPTION:MathsJam is a monthly opportunity for like-minded self-confess
  uzzles\, games\, problems\, or just anything they think is cool or interes
  ting.\n\nWe're running a bonus one-off MathsJam night at EMF.\n\nAttending
   this workshop will cost: \nSuitable age range: All ages\nAttendees should
-  bring: \n\nLink: https://www.emfcamp.org/schedule/2024/609-mathsjam
+  bring: \n\nLink: https://www.emfcamp.org/schedule/2024/609-mathsjam\nVenu
+ e: Workshop 5 (Maths) (https://map.emfcamp.org/#18.5/52.040753/-2.377772/m
+ =52.040753\,-2.377772)
 LOCATION:Workshop 5 (Maths)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pysanka - Ukrainian Easter egg decorating
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240531T133000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240531T153000
-UID:2024-326
-DESCRIPTION:A workshop in Ukrainian ages-old techniques of Easter egg deco
- ration. Children are welcome but the techniques are challenging so grownup
-  assistance would be required.\n\n1. Melt beewax in the wax pen over the b
- urning candle.\n2. Draw with melted wax on hollow eggshells\, then submerg
- e them into coloring. Repeat drawing and submerging.\n3. Wipe the wax.\n4.
-  Enjoy your fascinating artwork!\n\nVideos showing examples and some histo
- rical and cultural background:\n\nhttps://www.youtube.com/watch?v=BhG0Dsou
- U-I\nhttps://www.youtube.com/watch?v=bvsispnCBKc\nhttps://www.youtube.com/
- watch?v=dffnbXAIVrQ\n\nAttending this workshop will cost: \nSuitable age r
- ange: 6+ with adult assistants\nAttendees should bring: \n\nLink: https://
- www.emfcamp.org/schedule/2024/326-pysanka-ukrainian-easter-egg-decorating
-LOCATION:Workshop 4 (FieldFX)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Art with character(s): Make your own ASCII art with Python 
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240602T143000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240602T153000
-UID:2024-56
-DESCRIPTION:\n─█▀▀█ ░█▀▀▀█ ░█▀▀█ ▀█▀
-  ▀█▀ \n░█▄▄█ ─▀▀▀▄▄ ░█─── ░█─ 
- ░█─ \n░█─░█ ░█▄▄▄█ ░█▄▄█ ▄█▄ 
- ▄█▄ \n\nCome along to this workshop for a short talk about what ASCI
- I art is and its history\, an interactive tutorial of how you can use Pyth
- on and Pillow to take images from the internet and your webcam and turn th
- em into ASCII art\, and an opportunity to show off your new skills by buil
- ding something cool.\n\nAttending this workshop will cost: \nSuitable age 
- range: 11+\nAttendees should bring: Laptop\n\nLink: https://www.emfcamp.or
- g/schedule/2024/56-art-with-character-s-make-your-own-ascii-art-with-pytho
- n
-LOCATION:Workshop 4 (FieldFX)
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Arduino For Total Newbies workshop
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240601T160000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240601T193000
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240601T133000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240601T170000
 UID:2024-137
 DESCRIPTION:You've probably heard lots about Arduino. But if you don't kno
  w what it is\, or how you can use it to do all sorts of cool things\, then
@@ -590,68 +301,12 @@ DESCRIPTION:You've probably heard lots about Arduino. But if you don't kno
  m Arduinos\, how to read schematic diagrams\, Put together your own TV-B-G
  one remote control using your Arduino clone board using a solderless bread
  board. Target practice is available all over the world after the workshop.
- \n\nAttending this workshop will cost: 35 GBP\nSuitable age range: 10-100\
- nAttendees should bring: optional: laptop\n\nLink: https://www.emfcamp.org
- /schedule/2024/137-arduino-for-total-newbies-workshop
+ \n\nAttending this workshop will cost: 35 GBP\nSuitable age range: 10+\nAt
+ tendees should bring: optional: laptop\n\nLink: https://www.emfcamp.org/sc
+ hedule/2024/137-arduino-for-total-newbies-workshop\nVenue: Workshop 6 (Har
+ dware Hacking) (https://map.emfcamp.org/#18.5/52.041258/-2.375748/m=52.041
+ 258\,-2.375748)
 LOCATION:Workshop 6 (Hardware Hacking)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Solder some Solar
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240531T170000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240531T180000
-UID:2024-562
-DESCRIPTION:Make your own solar powered torch.\n\nAttendees will solder to
- gether a small LED torch with a solar panel. Charge up the ultra-capacitor
-  during the day\, for light when you need it. This brings in a bit about s
- olar energy and also for beginners to try out soldering.\n\nAttendees will
-  take away their little solar torch which also has a keyring. Suitable for
-  ages 7+. Soldering will be guided.\n\nAttending this workshop will cost: 
- £5\nSuitable age range: 7+\nAttendees should bring: Nothing\n\nLink: http
- s://www.emfcamp.org/schedule/2024/562-solder-some-solar
-LOCATION:Workshop 6 (Hardware Hacking)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Build Your Own Z80 Retro Computer Kit
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240602T173000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240602T183000
-UID:2024-261
-DESCRIPTION:The RC2014 is a Z80 based computer kit that runs Microsoft BAS
- IC\, and introduces you to the cutting edge world of computing in the late
-  1970s!\n\nIn this workshop\, I will take you through the steps involved i
- n building an RC2014 Micro\, explaining how it works\, what you can do wit
- h it\, and\, how to troubleshoot it if necessary. By the end of the worksh
- op you will have a working retro computer to take home that can be plugged
-  in to a laptop.\n\nI will have soldering irons\, wire cutters etc for att
- endees to use\, but feel free to bring your own equipment if you prefer.\n
- \nAttending this workshop will cost: £55\nSuitable age range: 12 years or
-  older. (Under 16s should be accompanied by an adult)\nAttendees should br
- ing: \n\nLink: https://www.emfcamp.org/schedule/2024/261-build-your-own-z8
- 0-retro-computer-kit
-LOCATION:Workshop 6 (Hardware Hacking)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Make a Ticklish Robot!
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240602T140000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240602T160000
-UID:2024-48
-DESCRIPTION:Make a paper robot that waves its arms with laughter when you 
- tickle its feet\, and learn a bit about physical computing in the process!
-  \n\nDuring the workshop you'll...\n-Cut and fold the parts for the robot 
- from paper\n-Connect the servo that drives the robot's arms to the BBC mic
- ro:bit\n-Program the micro:bit using block code\n-Decorate your robot to g
- ive it a personality\n\nWhether you're completely new to robotics or an ex
- pert\, this is a chance to have some fun blending art with engineering\, a
- nd to be inspired by how household materials like paper can be combined wi
- th simple electronics to build fully functional robots. \n\nYou can either
-  borrow a micro:bit for the duration of the workshop or bring your own. \n
- Note that if you borrow a micro:bit\, you'll be able to keep your robot bu
- t you'll need to supply your own micro:bit at home to get it back up and r
- unning. \n\nExample of the robot in action: https://www.youtube.com/watch?
- v=Jdin_PYYk_8\n\nAttending this workshop will cost: Free\nSuitable age ran
- ge: Ages 7 and up (children under 11 should bring an adult to help them ou
- t)\nAttendees should bring: Laptops. Optional: micro-USB cable\, micro:bit
- \n\nLink: https://www.emfcamp.org/schedule/2024/48-make-a-ticklish-robot
-LOCATION:Workshop 5 (Maths)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dome Building Drop-in
@@ -664,13 +319,15 @@ DESCRIPTION:The Leonardo Dome is a self-supporting modular dome made from
  ure pattern sheets around for you to follow. Drop in whenever you like\, a
  nd help us build (and then destroy) some domes!\n\nAttending this workshop
   will cost: \nSuitable age range: 10+\nAttendees should bring: None\n\nLin
- k: https://www.emfcamp.org/schedule/2024/654-dome-building-drop-in
+ k: https://www.emfcamp.org/schedule/2024/654-dome-building-drop-in\nVenue:
+  Workshop 5 (Maths) (https://map.emfcamp.org/#18.5/52.040753/-2.377772/m=5
+ 2.040753\,-2.377772)
 LOCATION:Workshop 5 (Maths)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Musical Jam Garden 1
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240601T143000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240601T153000
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240601T170000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240601T180000
 UID:2024-519
 DESCRIPTION:Come and join a music jam! A welcoming space for musicians/non
  -musicians to gather\, that will be activated by a facilitator at schedule
@@ -679,13 +336,14 @@ DESCRIPTION:Come and join a music jam! A welcoming space for musicians/non
  help you out with how to use the instruments.\n\nAttending this workshop w
  ill cost: \nSuitable age range: 12+\nAttendees should bring: Musical instr
  ument if they want to bring their own\n\nLink: https://www.emfcamp.org/sch
- edule/2024/519-musical-jam-garden-1
+ edule/2024/519-musical-jam-garden-1\nVenue: Workshop 0 (Drop-in) (https://
+ map.emfcamp.org/#18.5/52.042955/-2.376244/m=52.042955\,-2.376244)
 LOCATION:Workshop 0 (Drop-in)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Board games
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240601T160000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240601T200000
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240601T180000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240601T220000
 UID:2024-578
 DESCRIPTION:We bring some board games and knowledge of how to play them. Y
  ou bring yourselves and people to play with (and optionally\, your own gam
@@ -696,13 +354,14 @@ DESCRIPTION:We bring some board games and knowledge of how to play them. Y
  ll have room and time to play\n\nAttending this workshop will cost: \nSuit
  able age range: All ages\nAttendees should bring: You don't have to bring 
  a game\, but if you do\, then so the better!\n\nLink: https://www.emfcamp.
- org/schedule/2024/578-board-games
+ org/schedule/2024/578-board-games\nVenue: Workshop 0 (Drop-in) (https://ma
+ p.emfcamp.org/#18.5/52.042955/-2.376244/m=52.042955\,-2.376244)
 LOCATION:Workshop 0 (Drop-in)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Board games
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240531T163000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240531T203000
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240531T180000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240531T220000
 UID:2024-577
 DESCRIPTION:We bring some board games and knowledge of how to play them. Y
  ou bring yourselves and people to play with (and optionally\, your own gam
@@ -713,8 +372,59 @@ DESCRIPTION:We bring some board games and knowledge of how to play them. Y
  ll have room and time to play\n\nAttending this workshop will cost: \nSuit
  able age range: All ages\nAttendees should bring: You don't have to bring 
  a game\, but if you do\, then so the better!\n\nLink: https://www.emfcamp.
- org/schedule/2024/577-board-games
+ org/schedule/2024/577-board-games\nVenue: Workshop 0 (Drop-in) (https://ma
+ p.emfcamp.org/#18.5/52.042955/-2.376244/m=52.042955\,-2.376244)
 LOCATION:Workshop 0 (Drop-in)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Maths Village Pop Up Shop
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240601T130000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240601T133000
+UID:2024-648
+DESCRIPTION:The Maths Village pop-up shop will be selling mathematical toy
+ s\, books (some of which may be signed by their authors\, if you catch the
+ m around at the right time) and curiosities\, at specified times during th
+ e weekend. Come to the village any time to solve our fiendish-ish puzzles 
+ and find out when it will be open (or just look at the times on this listi
+ ng\, but that’s less fun). \n\nAttending this workshop will cost: \nSuit
+ able age range: All ages\nAttendees should bring: Your wallet!\n\nLink: ht
+ tps://www.emfcamp.org/schedule/2024/648-maths-village-pop-up-shop\nVenue: 
+ Workshop 5 (Maths) (https://map.emfcamp.org/#18.5/52.040753/-2.377772/m=52
+ .040753\,-2.377772)
+LOCATION:Workshop 5 (Maths)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Maths Village Pop Up Shop
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240601T180000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240601T183000
+UID:2024-649
+DESCRIPTION:The Maths Village pop-up shop will be selling mathematical toy
+ s\, books (some of which may be signed by their authors\, if you catch the
+ m around at the right time) and curiosities\, at specified times during th
+ e weekend. Come to the village any time to solve our fiendish-ish puzzles 
+ and find out when it will be open (or just look at the times on this listi
+ ng\, but that’s less fun). \n\nAttending this workshop will cost: \nSuit
+ able age range: All ages\nAttendees should bring: Your wallet!\n\nLink: ht
+ tps://www.emfcamp.org/schedule/2024/649-maths-village-pop-up-shop\nVenue: 
+ Workshop 5 (Maths) (https://map.emfcamp.org/#18.5/52.040753/-2.377772/m=52
+ .040753\,-2.377772)
+LOCATION:Workshop 5 (Maths)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dome Building Drop-in
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240531T100000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240531T103000
+UID:2024-645
+DESCRIPTION:The Leonardo Dome is a self-supporting modular dome made from 
+ notched wooden pieces. During this session\, we'll be putting a big pile o
+ f pieces in the middle of the floor and leaving a selection of dome struct
+ ure pattern sheets around for you to follow. Drop in whenever you like\, a
+ nd help us build (and then destroy) some domes!\n\nAttending this workshop
+  will cost: \nSuitable age range: 10+\nAttendees should bring: None\n\nLin
+ k: https://www.emfcamp.org/schedule/2024/645-dome-building-drop-in\nVenue:
+  Workshop 5 (Maths) (https://map.emfcamp.org/#18.5/52.040753/-2.377772/m=5
+ 2.040753\,-2.377772)
+LOCATION:Workshop 5 (Maths)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Maths Village Pop Up Shop
@@ -728,8 +438,44 @@ DESCRIPTION:The Maths Village pop-up shop will be selling mathematical toy
  and find out when it will be open (or just look at the times on this listi
  ng\, but that’s less fun). \n\nAttending this workshop will cost: \nSuit
  able age range: All ages\nAttendees should bring: Your wallet!\n\nLink: ht
- tps://www.emfcamp.org/schedule/2024/655-maths-village-pop-up-shop
+ tps://www.emfcamp.org/schedule/2024/655-maths-village-pop-up-shop\nVenue: 
+ Workshop 5 (Maths) (https://map.emfcamp.org/#18.5/52.040753/-2.377772/m=52
+ .040753\,-2.377772)
 LOCATION:Workshop 5 (Maths)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Maths Village Pop Up Shop
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240531T214500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240531T221500
+UID:2024-646
+DESCRIPTION:The Maths Village pop-up shop will be selling mathematical toy
+ s\, books (some of which may be signed by their authors\, if you catch the
+ m around at the right time) and curiosities\, at specified times during th
+ e weekend. Come to the village any time to solve our fiendish-ish puzzles 
+ and find out when it will be open (or just look at the times on this listi
+ ng\, but that’s less fun). \n\n\nAttending this workshop will cost: \nSu
+ itable age range: All ages\nAttendees should bring: Your wallet!\n\nLink: 
+ https://www.emfcamp.org/schedule/2024/646-maths-village-pop-up-shop\nVenue
+ : Workshop 5 (Maths) (https://map.emfcamp.org/#18.5/52.040753/-2.377772/m=
+ 52.040753\,-2.377772)
+LOCATION:Workshop 5 (Maths)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Solder some Solar
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240531T170000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240531T180000
+UID:2024-562
+DESCRIPTION:Make your own solar powered torch.\n\nAttendees will solder to
+ gether a small LED torch with a solar panel. Charge up the ultra-capacitor
+  during the day\, for light when you need it. This brings in a bit about s
+ olar energy and also for beginners to try out soldering.\n\nAttendees will
+  take away their little solar torch which also has a keyring. Suitable for
+  ages 5+. Soldering will be guided.\n\nAttending this workshop will cost: 
+ £5\nSuitable age range: 5+\nAttendees should bring: Nothing\n\nLink: http
+ s://www.emfcamp.org/schedule/2024/562-solder-some-solar\nVenue: Workshop 6
+  (Hardware Hacking) (https://map.emfcamp.org/#18.5/52.041258/-2.375748/m=5
+ 2.041258\,-2.375748)
+LOCATION:Workshop 6 (Hardware Hacking)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Game Jam
@@ -744,8 +490,41 @@ DESCRIPTION:This will be a 48 hour game jam with the theme announced and t
  cipants are looking for an extra challenge.\n\nAttending this workshop wil
  l cost: Free!\nSuitable age range: 12+\nAttendees should bring: Laptop if 
  developing a digital game\n\nLink: https://www.emfcamp.org/schedule/2024/3
- 53-game-jam
+ 53-game-jam\nVenue: Workshop 4 (FieldFX) (https://map.emfcamp.org/#18.5/52
+ .043289/-2.375978/m=52.043289\,-2.375978)
 LOCATION:Workshop 4 (FieldFX)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mathematical Face Painting
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240602T140000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240602T150000
+UID:2024-651
+DESCRIPTION:Come to the Maths Village / Workshop 5 tent to get some maths 
+ painted on your face. We’ll have mathematical buskers to entertain peopl
+ e waiting in the queue\, and you can choose your favourite bit of maths fo
+ r our team to draw on you.\n\nAttending this workshop will cost: \nSuitabl
+ e age range: All ages\nAttendees should bring: None\n\nLink: https://www.e
+ mfcamp.org/schedule/2024/651-mathematical-face-painting\nVenue: Workshop 5
+  (Maths) (https://map.emfcamp.org/#18.5/52.040753/-2.377772/m=52.040753\,-
+ 2.377772)
+LOCATION:Workshop 5 (Maths)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Maths Village Pop Up Shop
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240602T150000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240602T153000
+UID:2024-652
+DESCRIPTION:The Maths Village pop-up shop will be selling mathematical toy
+ s\, books (some of which may be signed by their authors\, if you catch the
+ m around at the right time) and curiosities\, at specified times during th
+ e weekend. Come to the village any time to solve our fiendish-ish puzzles 
+ and find out when it will be open (or just look at the times on this listi
+ ng\, but that’s less fun). \n\nAttending this workshop will cost: \nSuit
+ able age range: All ages\nAttendees should bring: Your wallet!\n\nLink: ht
+ tps://www.emfcamp.org/schedule/2024/652-maths-village-pop-up-shop\nVenue: 
+ Workshop 5 (Maths) (https://map.emfcamp.org/#18.5/52.040753/-2.377772/m=52
+ .040753\,-2.377772)
+LOCATION:Workshop 5 (Maths)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Game Jam Show and Tell
@@ -757,7 +536,8 @@ DESCRIPTION:The closing ceremony for the game jam. Teams will be given the
  ll also be the opportunity for play-testing and feedback.\n\nAttending thi
  s workshop will cost: Free!\nSuitable age range: All ages\nAttendees shoul
  d bring: A laptop if presenting\n\nLink: https://www.emfcamp.org/schedule/
- 2024/559-game-jam-show-and-tell
+ 2024/559-game-jam-show-and-tell\nVenue: Workshop 4 (FieldFX) (https://map.
+ emfcamp.org/#18.5/52.043289/-2.375978/m=52.043289\,-2.375978)
 LOCATION:Workshop 4 (FieldFX)
 END:VEVENT
 BEGIN:VEVENT
@@ -770,7 +550,9 @@ DESCRIPTION:Convert your name\, or another short word\, into binary and th
  ay. Involves using a hammer (deeply satisfying). Drop in any time during t
  he session - the activity takes around 5-10 minutes.\n\nAttending this wor
  kshop will cost: \nSuitable age range: 10+\nAttendees should bring: None\n
- \nLink: https://www.emfcamp.org/schedule/2024/653-binary-keyrings-drop-in
+ \nLink: https://www.emfcamp.org/schedule/2024/653-binary-keyrings-drop-in\
+ nVenue: Workshop 5 (Maths) (https://map.emfcamp.org/#18.5/52.040753/-2.377
+ 772/m=52.040753\,-2.377772)
 LOCATION:Workshop 5 (Maths)
 END:VEVENT
 BEGIN:VEVENT
@@ -780,7 +562,8 @@ DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240601T145000
 UID:2024-657
 DESCRIPTION:TBD\n\nAttending this workshop will cost: \nSuitable age range
  : All ages\nAttendees should bring: \n\nLink: https://www.emfcamp.org/sche
- dule/2024/657-eversong-demo
+ dule/2024/657-eversong-demo\nVenue: Workshop 0 (Drop-in) (https://map.emfc
+ amp.org/#18.5/52.042955/-2.376244/m=52.042955\,-2.376244)
 LOCATION:Workshop 0 (Drop-in)
 END:VEVENT
 BEGIN:VEVENT
@@ -793,24 +576,28 @@ DESCRIPTION:An informal drop-in demonstration following on from Saturday
  understand a little bit more. There will be some computer simulation resul
  ts and a physical model to help explain.\n\nAttending this workshop will c
  ost: \nSuitable age range: All ages\nAttendees should bring: \n\nLink: htt
- ps://www.emfcamp.org/schedule/2024/658-keeping-on-track-demo
+ ps://www.emfcamp.org/schedule/2024/658-keeping-on-track-demo\nVenue: Works
+ hop 0 (Drop-in) (https://map.emfcamp.org/#18.5/52.042955/-2.376244/m=52.04
+ 2955\,-2.376244)
 LOCATION:Workshop 0 (Drop-in)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Let's make a tech speaker out of you!
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240602T153000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240602T173000
-UID:2024-270
-DESCRIPTION:Ever been to a tech event\, wanted to be a speaker listed amon
- gst the others and thought "How on Earth do I even get started?"\n\nIn thi
- s workshop\, we'll prepare talk ideas\, craft a bio\, get techniques on sl
- ide design\, flow\, impostor syndrome\, inclusive language and more! Maybe
-  even play a game of Slide Karaoke?\n\nIf you want to be a tech speaker\, 
- then you can totally do it!\n\nAttending this workshop will cost: \nSuitab
- le age range: Any age\nAttendees should bring: Something to write with and
-  on (pen and paper)\n\nLink: https://www.emfcamp.org/schedule/2024/270-let
- s-make-a-tech-speaker-out-of-you
-LOCATION:Workshop 1 (NottingHack)
+SUMMARY:Origami Icosahedra
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240601T183000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240601T193000
+UID:2024-647
+DESCRIPTION:Sonobe modules are folded from a single square piece of origam
+ i paper\, and can be used to build modular origami\, by slotting multiple 
+ pieces together. An icosahedron is a 3D shape with 20 triangular faces\, a
+ nd 30 Sonobe modules can be used to build a special type of spiky icosahed
+ ron\, with a triangular point attached to each face. Join us to build your
+  own small icosahedron\, or join in with building a giant one all together
+ .\n\nCome to the Maths Village any time before the session to sign up and 
+ guarantee yourself a space!\n\nAttending this workshop will cost: \nSuitab
+ le age range: 10+\nAttendees should bring: None\n\nLink: https://www.emfca
+ mp.org/schedule/2024/647-origami-icosahedra\nVenue: Workshop 5 (Maths) (ht
+ tps://map.emfcamp.org/#18.5/52.040753/-2.377772/m=52.040753\,-2.377772)
+LOCATION:Workshop 5 (Maths)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Myth of Normality
@@ -823,74 +610,89 @@ DESCRIPTION:I would like this talk to explore the evolutions of human cons
  rly farming and how that has changed throughout the centuries into the mod
  ern day. Looking at both the achievements and the struggles over our exist
  ence\, I'd like to explore what it means to be ND and human.\n\nLink: http
- s://www.emfcamp.org/schedule/2024/566-myth-of-normality
+ s://www.emfcamp.org/schedule/2024/566-myth-of-normality\nVenue: Workshop 3
+  (Furry High Commission) (https://map.emfcamp.org/#18.5/52.041819/-2.37538
+ 4/m=52.041819\,-2.375384)
 LOCATION:Workshop 3 (Furry High Commission)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Draw Your Ideas for Kids
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240531T100000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240531T110000
-UID:2024-533
-DESCRIPTION:Draw How to Make Toast for Kids is a simple\, and fun design e
- xercise that gets everyone to draw and share cool ideas while thinking abo
- ut systems\, purpose\, context and toasted bread.\n\nAttending this worksh
- op will cost: \nSuitable age range: All ages\nAttendees should bring: All 
- materials and equipment will be provided.\n\nLink: https://www.emfcamp.org
- /schedule/2024/533-draw-your-ideas-for-kids
-LOCATION:Workshop 1 (NottingHack)
+SUMMARY:Crawlybots Drop-in Session
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240601T100000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240601T113000
+UID:2024-704
+DESCRIPTION:We have a troupe of cute\, expressive little robots that we ta
+ ke out to various events\, where we encourage people of all ages to take c
+ ontrol control of the robots\, ...or alternatively\, we sneak up on people
+  unsuspectedly and do robotty things.\n\nCrawlybots were born from talks w
+ ith Bristol based\, robot friends during Covid times\, regarding active su
+ spension systems <yawn>.  Many many experimentations later\, lead to a Cra
+ wly prototype\, which 5 mins after turning on\, we realised it was not onl
+ y adept and surmounting any number of challenging terrains... it was also 
+ a fantastic dancer!\n\nFunding helped us build a troupe of 4 Crawlybots th
+ at we have taken to many public engagement events\, and allowed hundreds o
+ f kids to take control of the Crawlybots via remote control and FPV drone 
+ goggles. The bots bring joy wherever they go\, across all ages\, even amon
+ g hard hearted roboticists. \n\nWe pride ourselves on having all our robot
+  'guts' on show\, so we can talk about all the great things like Teensys\,
+  coding\, lipo batteries\, BMS's's\, esp32s\, 3D printing\, education\, le
+ arning through play\, sustainability\, CNC\, laser cutting and all sorts o
+ f interesting stuff.\n\nFun fact! Crawlybot beta # 2 attended EMF 2022 and
+  won the Hacky Races inaugural small robot class!\n\nhttps://crawlybots.uk
+ /\nhttps://mechanismo.com/robots/\nhttps://www.instagram.com/mechanismobot
+ /\nhttps://twitter.com/mechanismobot\n\n\nAttending this workshop will cos
+ t: \nSuitable age range: All ages\nAttendees should bring: \n\nLink: https
+ ://www.emfcamp.org/schedule/2024/704-crawlybots-drop-in-session\nVenue: Wo
+ rkshop 0 (Drop-in) (https://map.emfcamp.org/#18.5/52.042955/-2.376244/m=52
+ .042955\,-2.376244)
+LOCATION:Workshop 0 (Drop-in)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:BMI270 sensor\, the Badge\, MicroPython and everything
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240531T170000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240531T183000
-UID:2024-463
-DESCRIPTION:In the workshop\, I first give a short overview about MEMS sen
- sor technoloty in general\, and some details about the BMI270  sensor whic
- h is used on this year's Tildagon badge.\n\nThen I'll show examples how to
-  use MicroPython to access that sensor and get measurement data (and maybe
-  accessing other hw on the badge too?).\n\nAttending this workshop will co
- st: \nSuitable age range: All ages\nAttendees should bring: if you like\, 
- bring in your badge and some computer with USB cable for badge\n\nLink: ht
- tps://www.emfcamp.org/schedule/2024/463-bmi270-sensor-the-badge-micropytho
- n-and-everything
-LOCATION:Workshop 3 (Furry High Commission)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surface mount electronics assembly for terrified beginners
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240530T200000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240530T220000
-UID:2024-662
-DESCRIPTION:In this workshop\, we will learn to handle the tiniest electro
- nic components\, which are used to make modern electronic devices. We will
-  cheat the same way the electronics industry does\, and use the techniques
-  of stencil paste printing and reflow soldering. We will also learn a tech
- nique that stops your hands from shaking\, so you can very very precisely 
- place microscopic parts. No prior experience or knowledge of anything elec
- tronic needed. Caffeine use is not recommended immediately before. All too
- ls are provided.\n\nAttending this workshop will cost: 20 for those that w
- ant to make their own board\, free to observe\nSuitable age range: 12+\, y
- ounger participants welcome if they can do focused work for 2 hours at a t
- ime\nAttendees should bring: no equipment needed\n\nLink: https://www.emfc
- amp.org/schedule/2024/662-surface-mount-electronics-assembly-for-terrified
- -beginners
-LOCATION:Workshop 6 (Hardware Hacking)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Knot too hard - an introduction to Celtic knotwork 
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240531T113000
+SUMMARY:Help write UK Online Safety & Phone Legislation for Children [Drop
+  In]
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240531T120000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240531T130000
-UID:2024-88
-DESCRIPTION:For centuries craftsmen across the globe have been fascinated 
- by Celtic Knotwork using it to decorate stone\, paper and textiles.  Now i
- t is your turn !  If you can count up to three and hold a pencil\, this wo
- rkshop will show you how to create your own knotwork.\nThis  workshop is s
- uitable for all ages - children accompanied by a responsible adult please.
- \nAll materials will be provided\, just bring your own patience and sense 
- of humour. \nWarning - this can become an addictive time waster.....\n\nAt
- tending this workshop will cost: n/a\nSuitable age range: all ages\nAttend
- ees should bring: none\n\nLink: https://www.emfcamp.org/schedule/2024/88-k
- not-too-hard-an-introduction-to-celtic-knotwork
-LOCATION:Workshop 1 (NottingHack)
+UID:2024-715
+DESCRIPTION:** ALL AGES VERY WELCOME\, COME AND SHARE YOUR THOUGHTS AND ID
+ EAS **\n\nWant to weigh in on pressing questions like:\n- Should young peo
+ ple have smartphones?\n- Is an outright ban achievable?\n- What can we do 
+ to make the internet safer for our young people?\n\nIf you think you have 
+ any answers or thoughts\, come to the Lounge (space permitting) and discus
+ s them with a volunteer from the NSPCC Online Safety Advisory Group!\n\nTh
+ e drop in is going to be informal\, and a safe space to discuss what you t
+ hink should be done.\n\nAbout me:\nHi! I'm Leo\, and I'm on the NSPCC Onli
+ ne Safety Youth Advisory Group\, and we're working at the moment to help c
+ reate advice and materials for government & industry on how to make sure t
+ he web is safe for kids!\n\nWant to find out more? Get in touch at emf.wil
+ kin.xyz - under development\n\nCan't come IRL\, but would like to weigh in
+ ?\nHave a muse on some leading questions here: https://forms.gle/t1XW5g8Ta
+ mddwZu47\n\nAttending this workshop will cost: \nSuitable age range: All a
+ ges\nAttendees should bring: - A laptop or a phone that you think you/a pa
+ rent would be comfortable typing on- A thoughtful & open-minded brain with
+  good ideas\n\nLink: https://www.emfcamp.org/schedule/2024/715-help-write-
+ uk-online-safety-phone-legislation\nVenue: Workshop 0 (Drop-in) (https://m
+ ap.emfcamp.org/#18.5/52.042955/-2.376244/m=52.042955\,-2.376244)
+LOCATION:Workshop 0 (Drop-in)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tech Trivia Table (T)Quiz
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240601T200000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240601T220000
+UID:2024-238
+DESCRIPTION:Gather your fellow adventurers\, rally your digital prowess\, 
+ and embark on the Tech Trivia Table (T)Quiz. Over two hours battle against
+  other teams in this fun and whimsical tech quiz at EMFcamp.\n\nPrepare to
+  navigate through a labyrinth of tech-themed rounds that will challenge yo
+ ur knowledge\, sharpen your wit\, and put your teamwork to the test. From 
+ mind-bending brainteasers to fascinating trivia about the evolution of com
+ puting\, every question promises to ignite your passion for technology.\n\
+ nThere's no charge to participate\, but teams are limited to four people. 
+ If possible pre-organise teams\, but if you're arriving solo\, you won't b
+ e the only one\, just prepare to make some new friends! Please arrive no e
+ arlier than 19:45 (as we'll still be setting up).\n\nLink: https://www.emf
+ camp.org/schedule/2024/238-tech-trivia-table-t-quiz\nVenue: Workshop 5 (Ma
+ ths) (https://map.emfcamp.org/#18.5/52.040753/-2.377772/m=52.040753\,-2.37
+ 7772)
+LOCATION:Workshop 5 (Maths)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Intro to Roleplaying
@@ -902,7 +704,8 @@ DESCRIPTION:Come along to join a table and learn how to play tabletop role
  your party! Two tables run in parallel - six per table.\n\nAttending this 
  workshop will cost: \nSuitable age range: Aimed at adults\, but supervised
   kids welcome.\nAttendees should bring: \n\nLink: https://www.emfcamp.org/
- schedule/2024/523-intro-to-roleplaying
+ schedule/2024/523-intro-to-roleplaying\nVenue: Workshop 1 (NottingHack) (h
+ ttps://map.emfcamp.org/#18.5/52.042597/-2.375188/m=52.042597\,-2.375188)
 LOCATION:Workshop 1 (NottingHack)
 END:VEVENT
 BEGIN:VEVENT
@@ -926,7 +729,8 @@ DESCRIPTION:Let's make a computer game! Using the accessible and fun platf
  lable online that is can be used for the workshop.\n\nAttending this works
  hop will cost: \nSuitable age range: 12+\nAttendees should bring: laptop\n
  \nLink: https://www.emfcamp.org/schedule/2024/418-make-a-game-in-an-hour-o
- r-two
+ r-two\nVenue: Workshop 2 (Milliways) (https://map.emfcamp.org/#18.5/52.042
+ 808/-2.376136/m=52.042808\,-2.376136)
 LOCATION:Workshop 2 (Milliways)
 END:VEVENT
 BEGIN:VEVENT
@@ -942,7 +746,8 @@ DESCRIPTION:In this fun craft workshop we will prepare our own easy-to-use
  aper folding\, or paper cutting.\n\nAttending this workshop will cost: Fre
  e\nSuitable age range: All ages\nAttendees should bring: None needed - but
   you can bring your own art materials if you prefer\n\nLink: https://www.e
- mfcamp.org/schedule/2024/422-handmade-database
+ mfcamp.org/schedule/2024/422-handmade-database\nVenue: Workshop 5 (Maths) 
+ (https://map.emfcamp.org/#18.5/52.040753/-2.377772/m=52.040753\,-2.377772)
 LOCATION:Workshop 5 (Maths)
 END:VEVENT
 BEGIN:VEVENT
@@ -969,17 +774,20 @@ DESCRIPTION:Air pollution is a major public health issue but you’d be su
  the SDS011 for £40 and an additional 20 with just the BME280 for £15. Yo
  u will need to bring your own usb power supply or plug it into a laptop an
  d I will leave the weather proofing up to you once you install it at home.
- \n\nA special shoutout will go to anyone who:\n- Scrounges together the pa
- rts for a sensor purely from things they get at the camp!\n- Get the firmw
- are running on the EMFcamp badge!\n- Makes an airquality themed Hexpansion
-  for the badge!\n- Does something else unexpected with the idea\, it's a c
- itizen lead project after all!\n\n[1]: https://sensor.community/en/sensors
- /airrohr/\n\nAttending this workshop will cost: £40 for a full kit\, £15
-  for the kit **without** the SDS011 air quality sensor.\nSuitable age rang
- e: Any (with adult supervision)\nAttendees should bring: A laptop and opti
- onally a solering iron\, though some will be provided.\n\nLink: https://ww
- w.emfcamp.org/schedule/2024/212-build-your-own-sensor-community-air-qualit
- y-monitoring
+ \n\nI can accept payment in cash (exact change only please!)\, contactless
+  or bank transfer. I don't have a physical card reader so can't accept chi
+ p and pin payments only contactless. \n\nA special shoutout will go to any
+ one who:\n- Scrounges together the parts for a sensor purely from things t
+ hey get at the camp!\n- Get the firmware running on the EMFcamp badge!\n- 
+ Makes an airquality themed Hexpansion for the badge!\n- Does something els
+ e unexpected with the idea\, it's a citizen lead project after all!\n\n[1]
+ : https://sensor.community/en/sensors/airrohr/\n\nAttending this workshop 
+ will cost: £40 for a full kit\, £15 for the kit **without** the SDS011 a
+ ir quality sensor.\nSuitable age range: All ages\nAttendees should bring: 
+ A laptop and optionally a solering iron\, though some will be provided.\n\
+ nLink: https://www.emfcamp.org/schedule/2024/212-build-your-own-sensor-com
+ munity-air-quality-monitoring\nVenue: Workshop 2 (Milliways) (https://map.
+ emfcamp.org/#18.5/52.042808/-2.376136/m=52.042808\,-2.376136)
 LOCATION:Workshop 2 (Milliways)
 END:VEVENT
 BEGIN:VEVENT
@@ -990,28 +798,57 @@ UID:2024-543
 DESCRIPTION:Karaoke returns to EMF!\nWe aim to keep the first hour family 
  friendly.\n\nAttending this workshop will cost: \nSuitable age range: \nAt
  tendees should bring: \n\nLink: https://www.emfcamp.org/schedule/2024/543-
- karaoke-saturday-night
+ karaoke-saturday-night\nVenue: Workshop 3 (Furry High Commission) (https:/
+ /map.emfcamp.org/#18.5/52.041819/-2.375384/m=52.041819\,-2.375384)
 LOCATION:Workshop 3 (Furry High Commission)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:QueerMF After Dark
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240531T200000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240601T000000
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240531T210000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240601T010000
 UID:2024-510
-DESCRIPTION:An adults-only queer mixer\, details to follow\n\nAttending th
- is workshop will cost: \nSuitable age range: 18+\nAttendees should bring: 
- \n\nLink: https://www.emfcamp.org/schedule/2024/510-queermf-after-dark
+DESCRIPTION:An adults-only\, kink positive queer mixer. Kink gear optional
+  but not obligatory. No outright nudity. Bring drinks.\n\nAttending this w
+ orkshop will cost: \nSuitable age range: 18+\nAttendees should bring: \n\n
+ Link: https://www.emfcamp.org/schedule/2024/510-queermf-after-dark\nVenue:
+  Workshop 3 (Furry High Commission) (https://map.emfcamp.org/#18.5/52.0418
+ 19/-2.375384/m=52.041819\,-2.375384)
 LOCATION:Workshop 3 (Furry High Commission)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:QueerMF feedback session
+SUMMARY:Diversity & Inclusion Feedback Session
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240602T180000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240602T190000
 UID:2024-509
-DESCRIPTION:An opportunity to discuss and give feedback on your experience
-  as queer people at EMF.\n\nAttending this workshop will cost: \nSuitable 
- age range: All ages\nAttendees should bring: \n\nLink: https://www.emfcamp
- .org/schedule/2024/509-queermf-feedback-session
+DESCRIPTION:Come along and talk about diversity & inclusion challenges and
+  successes at EMF.\n\nWe want your honest feedback on any issues - submitt
+ ing to the CFP\, the site\, our communications and more. We’re here to l
+ isten\, take notes and understand. We will not have answers to all your qu
+ estions but we’ll do our best to make sure you’re heard.\n\nAttending 
+ this workshop will cost: \nSuitable age range: All ages\nAttendees should 
+ bring: \n\nLink: https://www.emfcamp.org/schedule/2024/509-diversity-inclu
+ sion-feedback-session\nVenue: Workshop 3 (Furry High Commission) (https://
+ map.emfcamp.org/#18.5/52.041819/-2.375384/m=52.041819\,-2.375384)
+LOCATION:Workshop 3 (Furry High Commission)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DoodleMe’s Beginner Bondage Workshop (Shibari 101)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240531T190000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240531T210000
+UID:2024-727
+DESCRIPTION:Instructor @DoodleMe and team will take you through some of th
+ e most basic concepts of Japanese rope bondage (Shibari).\n\nYou'll learn 
+ some theory\, and a few beginner friendly knots that you can use at home a
+ nd that lay the foundations to more advanced ties.\n\nThis peer based work
+ shop is aimed at complete beginners. Singles\, pairs and groups are welcom
+ e. No dress code\, but it's suggested you avoid loose clothing as this mak
+ es it harder to tie. Workshop will be taught in English.\n\nSpots are limi
+ ted based on the size of the workshop space. First come first serve. \n\nA
+ ttending this workshop will cost: \nSuitable age range: 18+\nAttendees sho
+ uld bring: Please bring your own (non-stretchy) rope if you have it.\n\nLi
+ nk: https://www.emfcamp.org/schedule/2024/727-doodleme-s-beginner-bondage-
+ workshop-shibari-101\nVenue: Workshop 3 (Furry High Commission) (https://m
+ ap.emfcamp.org/#18.5/52.041819/-2.375384/m=52.041819\,-2.375384)
 LOCATION:Workshop 3 (Furry High Commission)
 END:VEVENT
 BEGIN:VEVENT
@@ -1025,7 +862,9 @@ DESCRIPTION:Come and try some homebrewed beers. We will have an IPA availa
  kshop will cost: \nSuitable age range: 18+\nAttendees should bring: If you
  've got it\, bring homebrewed beer\, cider etc. Reusable glasses would als
  o be handy. Neither are essential.\n\nLink: https://www.emfcamp.org/schedu
- le/2024/487-homebrewed-beer-tasting
+ le/2024/487-homebrewed-beer-tasting\nVenue: Workshop 3 (Furry High Commiss
+ ion) (https://map.emfcamp.org/#18.5/52.041819/-2.375384/m=52.041819\,-2.37
+ 5384)
 LOCATION:Workshop 3 (Furry High Commission)
 END:VEVENT
 BEGIN:VEVENT
@@ -1033,37 +872,13 @@ SUMMARY:QueerMF
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240530T200000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240531T000000
 UID:2024-508
-DESCRIPTION:Queer mixer\, details to follow\n\nAttending this workshop wil
- l cost: \nSuitable age range: All ages\nAttendees should bring: \n\nLink: 
- https://www.emfcamp.org/schedule/2024/508-queermf
+DESCRIPTION:A queer mixer. Come along and socialise with other queer hacke
+ rs. Bring drinks. With activities organised by your hosts boop and Riley.\
+ n\nAttending this workshop will cost: \nSuitable age range: All ages\nAtte
+ ndees should bring: \n\nLink: https://www.emfcamp.org/schedule/2024/508-qu
+ eermf\nVenue: Workshop 3 (Furry High Commission) (https://map.emfcamp.org/
+ #18.5/52.041819/-2.375384/m=52.041819\,-2.375384)
 LOCATION:Workshop 3 (Furry High Commission)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Brewing your own beer - an introduction and demonstration
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240530T150000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240530T190000
-UID:2024-486
-DESCRIPTION:Are you interested in making your own beer at home? Come along
-  to this demonstration where I'll be brewing a batch of IPA\, with some au
- dience participation\, whilst explaining the brewing process. The beer we 
- brew will be available for tasting on Saturday!\n\nAttending this workshop
-  will cost: \nSuitable age range: All ages\nAttendees should bring: \n\nLi
- nk: https://www.emfcamp.org/schedule/2024/486-brewing-your-own-beer-an-int
- roduction-and-demonstration
-LOCATION:Workshop 3 (Furry High Commission)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Morning Pop-Up Cafe
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240531T083000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240531T093000
-UID:2024-526
-DESCRIPTION:We will be serving morning tea and coffee - please bring your 
- own mug/flask or you can buy a mug from us (limited in supply!). We will a
- lso have some tea and coffee available through the day from a urn at our t
- ent.\n\nAttending this workshop will cost: £1\nSuitable age range: All ag
- es\nAttendees should bring: Mug or flask - We'll have some mugs for sale.\
- n\nLink: https://www.emfcamp.org/schedule/2024/526-morning-pop-up-cafe
-LOCATION:Workshop 1 (NottingHack)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hebocon Building Workshop
@@ -1077,29 +892,33 @@ DESCRIPTION:Hebocon is Robot Wars for those who are not technically gifted
   are those which are truly ‘heboi’\, meaning technically poor or low i
  n quality. These are bots constructed without the technology or skill that
   you’d usually expect in a robot fighting tournament.\n\nJoin us to buil
- d robots\, ready to compete in this years Hebocon!\nIf you want to compete
-  make sure you have a ticket for a place in the competition. Otherwise you
-  are welcome to build a robot just for the fun of it.\n\nAttending this wo
- rkshop will cost: £6 per kit\, free attendance\nSuitable age range: All a
- ges\, but likely to appeal more to children. They will need parental super
- vision.\nAttendees should bring: Any junk they think could be made into a 
- robot! Plus 4 AAA batteries if they are planning on getting a kit\n\nLink:
-  https://www.emfcamp.org/schedule/2024/379-hebocon-building-workshop
+ d robots\, ready to compete in this years Hebocon!\nThe first round of the
+  competition will be in this workshop from 12:00 - 13:00. The winners of t
+ he first round will be competing on Stage C from 14:00-14:40\, so make sur
+ e you're free then. You are also welcome to build a robot just for the fun
+  of it.\n\nChildren must be accompanied by a responsible adult.\n\nAttendi
+ ng this workshop will cost: £6 per kit\, free attendance\nSuitable age ra
+ nge: All ages\nAttendees should bring: Any junk you think could be made in
+ to a robot! Plus 4 AAA batteries if you are planning on getting a kit\n\nL
+ ink: https://www.emfcamp.org/schedule/2024/379-hebocon-building-workshop\n
+ Venue: Workshop 6 (Hardware Hacking) (https://map.emfcamp.org/#18.5/52.041
+ 258/-2.375748/m=52.041258\,-2.375748)
 LOCATION:Workshop 6 (Hardware Hacking)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tie-dyeing
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240602T120000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240602T133000
-UID:2024-532
-DESCRIPTION:You'll learn and do tie-dying of a tote bag!  Three half hour 
- slots (12:30\, 13:00 or 13:30). Price includes a tote-bag and t-shirt\, bu
- t you can bring your own (white) clothing item to dye too.\n\nNote: Dyed i
- tems will placed in a zip-lock bag for you to wash and dry at home.\n\nAtt
- ending this workshop will cost: £15\nSuitable age range: Aimed at adults\
- , but supervised kids welcome.\nAttendees should bring: Materials and equi
- pment provided\n\nLink: https://www.emfcamp.org/schedule/2024/532-tie-dyei
- ng
+SUMMARY:Morning Pop-Up Cafe
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240531T083000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240531T093000
+UID:2024-526
+DESCRIPTION:We will be serving morning tea and fresh strong coffee if you'
+ re up and about early. Hang about\, have a chat.\nPlease bring your own mu
+ g/flask if you can - We'll have a limited supply.\nTea and coffee is avail
+ able through the day and at our workshops from the urn in  our tent. \n\nA
+ ttending this workshop will cost: £1\nSuitable age range: All ages\nAtten
+ dees should bring: Mug or flask - We'll have some mugs for sale.\n\nLink: 
+ https://www.emfcamp.org/schedule/2024/526-morning-pop-up-cafe\nVenue: Work
+ shop 1 (NottingHack) (https://map.emfcamp.org/#18.5/52.042597/-2.375188/m=
+ 52.042597\,-2.375188)
 LOCATION:Workshop 1 (NottingHack)
 END:VEVENT
 BEGIN:VEVENT
@@ -1112,7 +931,9 @@ DESCRIPTION:Draw How to Make Toast for Kids is a simple\, and fun design e
  ut systems\, purpose\, context and toasted bread.\n\nAttending this worksh
  op will cost: \nSuitable age range: All ages\nAttendees should bring: All 
  materials and equipment will be provided.\n\nLink: https://www.emfcamp.org
- /schedule/2024/534-draw-your-ideas-for-kids
+ /schedule/2024/534-draw-your-ideas-for-kids\nVenue: Workshop 1 (NottingHac
+ k) (https://map.emfcamp.org/#18.5/52.042597/-2.375188/m=52.042597\,-2.3751
+ 88)
 LOCATION:Workshop 1 (NottingHack)
 END:VEVENT
 BEGIN:VEVENT
@@ -1141,7 +962,8 @@ DESCRIPTION:Are you eager to embark on a tech career but unsure where to s
  uddy who may not otherwise think of themselves as a "coder" (yet!). ⭐\n\
  nAttending this workshop will cost: \nSuitable age range: 12+\nAttendees s
  hould bring: Laptop\n\nLink: https://www.emfcamp.org/schedule/2024/185-hum
- ble-data-workshop
+ ble-data-workshop\nVenue: Workshop 4 (FieldFX) (https://map.emfcamp.org/#1
+ 8.5/52.043289/-2.375978/m=52.043289\,-2.375978)
 LOCATION:Workshop 4 (FieldFX)
 END:VEVENT
 BEGIN:VEVENT
@@ -1158,7 +980,8 @@ DESCRIPTION:Over the last three years I have been making an instrument to
  e object in front of them) are all controlled via midi making it a sort of
   light organ that creates something nobody has seen before.\n\nhttps://fun
  kiporcini.net/things/news/the-laserium/\n\nLink: https://www.emfcamp.org/s
- chedule/2024/370-funki-porcini-the-laserium
+ chedule/2024/370-funki-porcini-the-laserium\nVenue: Workshop 4 (FieldFX) (
+ https://map.emfcamp.org/#18.5/52.043289/-2.375978/m=52.043289\,-2.375978)
 LOCATION:Workshop 4 (FieldFX)
 END:VEVENT
 BEGIN:VEVENT
@@ -1174,49 +997,240 @@ DESCRIPTION:This presentation serves as an introductory exploration into t
   session aims to clarify common misconceptions\, providing a concise overv
  iew of the furry fandom's cultural and social aspects\, tailored for those
   new to or curious about this diverse community.\n\nLink: https://www.emfc
- amp.org/schedule/2024/535-furry-101-a-byte-sized-introduction
+ amp.org/schedule/2024/535-furry-101-a-byte-sized-introduction\nVenue: Work
+ shop 3 (Furry High Commission) (https://map.emfcamp.org/#18.5/52.041819/-2
+ .375384/m=52.041819\,-2.375384)
 LOCATION:Workshop 3 (Furry High Commission)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Computer Font Making Workshop
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240601T100000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240601T120000
-UID:2024-267
-DESCRIPTION:A workshop to guide you through the process of making your own
-  computer fonts\, be they handwriting\, custom-drawn\, designed\, copied\,
-  or modified.\n\nAfter a short talk\, I encourage experimentation with let
- ter forms on paper\, and then use of a laptop to digitally create your own
-  font.\n\nFor more information\, see https://blog.alifeee.co.uk/font-works
- hop/\n\nAttending this workshop will cost: No cost.\nSuitable age range: a
- ny\nAttendees should bring: A laptop\n\nLink: https://www.emfcamp.org/sche
- dule/2024/267-computer-font-making-workshop
+SUMMARY:BMI270 sensor\, the Badge\, MicroPython and everything
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240602T160000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240602T173000
+UID:2024-463
+DESCRIPTION:In the workshop\, I first give a short overview about MEMS sen
+ sor technoloty in general\, and some details about the BMI270  sensor whic
+ h is used on this year's Tildagon badge.\n\nThen I'll show examples how to
+  use MicroPython to access that sensor and get measurement data (and maybe
+  accessing other hw on the badge too?).\n\nAttending this workshop will co
+ st: \nSuitable age range: All ages\nAttendees should bring: if you like\, 
+ bring in your badge and some computer with USB cable for badge\n\nLink: ht
+ tps://www.emfcamp.org/schedule/2024/463-bmi270-sensor-the-badge-micropytho
+ n-and-everything\nVenue: Workshop 3 (Furry High Commission) (https://map.e
+ mfcamp.org/#18.5/52.041819/-2.375384/m=52.041819\,-2.375384)
+LOCATION:Workshop 3 (Furry High Commission)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Circle Theorem Badge Making Workshop
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240601T170000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240601T180000
+UID:2024-644
+DESCRIPTION:Circle Theorems - everybody’s favourite part of GCSE Mathema
+ tics. But how do you prove them? Luckily there are some nice visual proofs
+  that are simple enough to fit on a (circular) badge. Come along\, learn a
+ bout the proofs\, and make your very own badge so you’ll never forget ho
+ w to calculate angles inside circles again.\n\nCome to the Maths Village a
+ ny time before the session to sign up and guarantee yourself a space!\n\nA
+ ttending this workshop will cost: \nSuitable age range: 11+\nAttendees sho
+ uld bring: None\n\nLink: https://www.emfcamp.org/schedule/2024/644-circle-
+ theorem-badge-making-workshop\nVenue: Workshop 5 (Maths) (https://map.emfc
+ amp.org/#18.5/52.040753/-2.377772/m=52.040753\,-2.377772)
 LOCATION:Workshop 5 (Maths)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Geogebra Art Workshop
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240531T180000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240531T190000
+UID:2024-643
+DESCRIPTION:GeoGebra is a free software package that includes dynamic geom
+ etry\, computer algebra\, spreadsheet functionality and much more. This wo
+ rkshop\, suitable for complete beginners in GeoGebra\, will show you some 
+ of the functions and how they can be used to create beautiful art.\n\nCome
+  to the Maths Village any time before the session to sign up and guarantee
+  yourself a space!\n\nAttending this workshop will cost: \nSuitable age ra
+ nge: 11+\nAttendees should bring: You will need a laptop or tablet\; no pr
+ ior download/installation is needed as GeoGebra also has an in-browser ver
+ sion!\n\nLink: https://www.emfcamp.org/schedule/2024/643-geogebra-art-work
+ shop\nVenue: Workshop 5 (Maths) (https://map.emfcamp.org/#18.5/52.040753/-
+ 2.377772/m=52.040753\,-2.377772)
+LOCATION:Workshop 5 (Maths)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Draw Your Ideas (for Kids)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240531T100000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240531T110000
+UID:2024-533
+DESCRIPTION:Draw How to Make Toast for Kids is a simple\, and fun design e
+ xercise that gets everyone to draw and share cool ideas while thinking abo
+ ut systems\, purpose\, context and toasted bread.\n\nAttending this worksh
+ op will cost: \nSuitable age range: All ages\nAttendees should bring: All 
+ materials and equipment will be provided.\n\nLink: https://www.emfcamp.org
+ /schedule/2024/533-draw-your-ideas-for-kids\nVenue: Workshop 1 (NottingHac
+ k) (https://map.emfcamp.org/#18.5/52.042597/-2.375188/m=52.042597\,-2.3751
+ 88)
+LOCATION:Workshop 1 (NottingHack)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Morning Pop-Up Cafe
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240602T083000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240602T093000
 UID:2024-524
-DESCRIPTION:We will be serving morning tea and coffee - please bring your 
- own mug/flask or you can buy a mug from us (limited in supply!). We will a
- lso have some tea and coffee available through the day from a urn at our t
- ent.\n\nAttending this workshop will cost: £1\nSuitable age range: All ag
- es\nAttendees should bring: Mug or flask - We'll have some mugs for sale.\
- n\nLink: https://www.emfcamp.org/schedule/2024/524-morning-pop-up-cafe
+DESCRIPTION:We will be serving morning tea and fresh strong coffee if you'
+ re up and about early. Hang about\, have a chat.\nPlease bring your own mu
+ g/flask if you can - We'll have a limited supply.\nTea and coffee is avail
+ able through the day and at our workshops from the urn in  our tent. \n\nA
+ ttending this workshop will cost: £1\nSuitable age range: All ages\nAtten
+ dees should bring: Mug or flask - We'll have some mugs for sale.\n\nLink: 
+ https://www.emfcamp.org/schedule/2024/524-morning-pop-up-cafe\nVenue: Work
+ shop 1 (NottingHack) (https://map.emfcamp.org/#18.5/52.042597/-2.375188/m=
+ 52.042597\,-2.375188)
 LOCATION:Workshop 1 (NottingHack)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Titanium Spork Workshop
+SUMMARY:Brewing your own beer - an introduction and demonstration
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240530T150000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240530T190000
+UID:2024-486
+DESCRIPTION:Are you interested in making your own beer at home? Come along
+  to this demonstration where I'll be brewing a batch of IPA\, with some au
+ dience participation\, whilst explaining the brewing process. The beer we 
+ brew will be available for tasting on Saturday!\n\nAttending this workshop
+  will cost: \nSuitable age range: All ages\nAttendees should bring: \n\nLi
+ nk: https://www.emfcamp.org/schedule/2024/486-brewing-your-own-beer-an-int
+ roduction-and-demonstration\nVenue: Workshop 3 (Furry High Commission) (ht
+ tps://map.emfcamp.org/#18.5/52.041819/-2.375384/m=52.041819\,-2.375384)
+LOCATION:Workshop 3 (Furry High Commission)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Soldering Workshop (Beginners)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240531T133000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240531T150000
+UID:2024-531
+DESCRIPTION:Badge soldering workshop for people who haven't soldered befor
+ e - you can learn how to solder with a simple LED badge kit! Younger child
+ ren can do this with parental supervision. This will not take the full 90 
+ minutes\, so feel free to drop in. Maximum of 10 people at a time.\n\nAtte
+ nding this workshop will cost: £3\nSuitable age range: Aimed at adults\, 
+ but supervised kids welcome.\nAttendees should bring: Badge and soldering 
+ equipment provided. Children must be supervised.\n\nLink: https://www.emfc
+ amp.org/schedule/2024/531-soldering-workshop-beginners\nVenue: Workshop 1 
+ (NottingHack) (https://map.emfcamp.org/#18.5/52.042597/-2.375188/m=52.0425
+ 97\,-2.375188)
+LOCATION:Workshop 1 (NottingHack)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Build an Arduino Theremin!
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240601T100000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240601T120000
+UID:2024-530
+DESCRIPTION:Build an ultrasound theremin! An intermediate Arduino workshop
+  to learn how to code and interface with an Arduino module. The price of t
+ he workshop includes the module and breadboard. The workshop cost is £15\
+ , or £25 with an Arduino Uno (which you can keep). A laptop is required t
+ o do the programming and uploading.\n\nMaximum of 12 attendees but pairs m
+ ore than welcome.\n\nAttending this workshop will cost: £25\nSuitable age
+  range: Aimed at adults\, but supervised kids welcome.\nAttendees should b
+ ring: Laptop required. If you bring your own Arduino Uno\, the cost is £1
+ 5 rather than £25.\n\nLink: https://www.emfcamp.org/schedule/2024/530-bui
+ ld-an-arduino-theremin\nVenue: Workshop 1 (NottingHack) (https://map.emfca
+ mp.org/#18.5/52.042597/-2.375188/m=52.042597\,-2.375188)
+LOCATION:Workshop 1 (NottingHack)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tie-dyeing
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240602T120000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240602T150000
-UID:2024-158
-DESCRIPTION:Make your own titanium spork\, to your own design. You’ll cu
- t it from sheet and hammer it to shape. No experience is required\, and yo
- u’ll end up learning some basic sheet-metal technique.\n\n\n\nAttending 
- this workshop will cost: \nSuitable age range: 12 and up\nAttendees should
-  bring: \n\nLink: https://www.emfcamp.org/schedule/2024/158-titanium-spork
- -workshop
-LOCATION:Workshop 0 (Drop-in)
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240602T133000
+UID:2024-532
+DESCRIPTION:You'll learn and do tie-dying of a tote bag!  Three half hour 
+ slots (12:30\, 13:00 or 13:30). Price includes a tote-bag and t-shirt\, bu
+ t you can bring your own (white) clothing item to dye too.\n\nNote: Dyed i
+ tems will placed in a zip-lock bag for you to wash and dry at home.\n\nAtt
+ ending this workshop will cost: £15\nSuitable age range: Aimed at adults\
+ , but supervised kids welcome.\nAttendees should bring: Materials and equi
+ pment provided\n\nLink: https://www.emfcamp.org/schedule/2024/532-tie-dyei
+ ng\nVenue: Workshop 1 (NottingHack) (https://map.emfcamp.org/#18.5/52.0425
+ 97/-2.375188/m=52.042597\,-2.375188)
+LOCATION:Workshop 1 (NottingHack)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Build Your Own Z80 Retro Computer Kit
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240531T120000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240531T130000
+UID:2024-561
+DESCRIPTION:The RC2014 is a Z80 based computer kit that runs Microsoft BAS
+ IC\, and introduces you to the cutting edge world of computing in the late
+  1970s!\n\nIn this workshop\, I will take you through the steps involved i
+ n building an RC2014 Micro\, explaining how it works\, what you can do wit
+ h it\, and\, how to troubleshoot it if necessary. By the end of the worksh
+ op you will have a working retro computer to take home that can be plugged
+  in to a laptop.\n\nI will have soldering irons\, wire cutters etc for att
+ endees to use\, but feel free to bring your own equipment if you prefer.\n
+ \nAttending this workshop will cost: £55\nSuitable age range: 12+\nAttend
+ ees should bring: \n\nLink: https://www.emfcamp.org/schedule/2024/561-buil
+ d-your-own-z80-retro-computer-kit\nVenue: Workshop 6 (Hardware Hacking) (h
+ ttps://map.emfcamp.org/#18.5/52.041258/-2.375748/m=52.041258\,-2.375748)
+LOCATION:Workshop 6 (Hardware Hacking)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:An introduction to the post-apocalyptic skill of spinning yarn
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240531T153000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240531T173000
+UID:2024-438
+DESCRIPTION:Many know how jumpers are knitted or fabrics are woven\, but w
+ hat happens before that? How do you get from sheep to thread?\n\nIn this w
+ orkshop we will spin our own yarn\, talk about the basics of hand spinning
+  and have plenty of space to try things out and ask questions.\n\nWe will 
+ have wool and some ready-made hand spindles as well as kits so that you ca
+ n build your own.\n\nAttending this workshop will cost: expanses for mater
+ ial are about 4 pounds per participant\, pay what you want/can afford\nSui
+ table age range: 10+\nAttendees should bring: \n\nLink: https://www.emfcam
+ p.org/schedule/2024/438-an-introduction-to-the-post-apocalyptic-skill-of-s
+ pinning\nVenue: Workshop 1 (NottingHack) (https://map.emfcamp.org/#18.5/52
+ .042597/-2.375188/m=52.042597\,-2.375188)
+LOCATION:Workshop 1 (NottingHack)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Making dipped beeswax candles
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240602T100000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240602T120000
+UID:2024-358
+DESCRIPTION:We will teach people to make their own dipped beeswax candles 
+ using the wax from our bee-hives!\n\nWe have at enough wax for 20 people t
+ o make two candles each.\nBut we only have one wax melter so people will h
+ ave to take turns.\nMaking two candles takes about 5 minutes. Whilst you a
+ re welcome to watch everyone else making theirs\, it might get a bit crowd
+ ed so we will run a time slot system for the 2hrs so half the people can s
+ ign up to come back later.\n\nAttending this workshop will cost: Donations
+  to help feed the bees would be good\, but people don't need to pay.\nSuit
+ able age range: 8+\nAttendees should bring: \n\nLink: https://www.emfcamp.
+ org/schedule/2024/358-making-dipped-beeswax-candles\nVenue: Workshop 2 (Mi
+ lliways) (https://map.emfcamp.org/#18.5/52.042808/-2.376136/m=52.042808\,-
+ 2.376136)
+LOCATION:Workshop 2 (Milliways)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Digital Music Synthesis/Solder workshop with ArduTouch music synth
+ esizer kit
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240531T133000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240531T160000
+UID:2024-167
+DESCRIPTION:Anyone can learn to solder!  And anyone can learn to make musi
+ c\, sound (and noise!) with computer chips!  All participants will easily 
+ learn all of this by making an ArduTouch music synthesizer from an open ha
+ rdware kit.  This workshop is for everyone -- even total beginners.\n\nArd
+ uTouch is designed for total beginners to learn to solder\, as well as to 
+ learn Digital Signal Processing for making sound.  It is called ArduTouch 
+ because it is based on Arduino\, and it has a touch keyboard.  It also has
+  a built-in speaker/amp\, so you can play/perform wherever you go.\n\nArdu
+ Touch comes pre-programmed with a way nice 4-voice sawtooth waveform\, but
+  can be easily re-programmed with other way different synths\, including a
+ lready available drums\, drones\, noise\, arpegios\, and more\; or with sy
+ nths of your own making.\n\nAttending this workshop will cost: 30 GBP (plu
+ s optional 5 GBP for USB-Serial Cable for programming)\nSuitable age range
+ : 10+\nAttendees should bring: optional: laptop\n\nLink: https://www.emfca
+ mp.org/schedule/2024/167-digital-music-synthesis-solder-workshop\nVenue: W
+ orkshop 6 (Hardware Hacking) (https://map.emfcamp.org/#18.5/52.041258/-2.3
+ 75748/m=52.041258\,-2.375748)
+LOCATION:Workshop 6 (Hardware Hacking)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Build a wall penetrating radar
@@ -1231,10 +1245,157 @@ DESCRIPTION:In this workshop\, participants will learn how radiowaves can
  etrating radar. \nFinally\, some testing. Each group will show the capabil
  ities of its radar in detecting hidden objects. \n\nAttending this worksho
  p will cost: £5 per attendee\, £110 if you want to take home the radar\n
- Suitable age range: 12 or more\nAttendees should bring: Laptop (optional)\
- n\nLink: https://www.emfcamp.org/schedule/2024/228-build-a-wall-penetratin
- g-radar
+ Suitable age range: 12+\nAttendees should bring: Laptop (optional)\n\nLink
+ : https://www.emfcamp.org/schedule/2024/228-build-a-wall-penetrating-radar
+ \nVenue: Workshop 3 (Furry High Commission) (https://map.emfcamp.org/#18.5
+ /52.041819/-2.375384/m=52.041819\,-2.375384)
 LOCATION:Workshop 3 (Furry High Commission)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Let's make a tech speaker out of you!
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240602T153000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240602T173000
+UID:2024-270
+DESCRIPTION:Ever been to a tech event\, wanted to be a speaker listed amon
+ gst the others and thought "How on Earth do I even get started?"\n\nIn thi
+ s workshop\, we'll prepare talk ideas\, craft a bio\, get techniques on sl
+ ide design\, flow\, impostor syndrome\, inclusive language and more! Maybe
+  even play a game of Slide Karaoke?\n\nIf you want to be a tech speaker\, 
+ then you can totally do it!\n\nAttending this workshop will cost: \nSuitab
+ le age range: All ages\nAttendees should bring: Something to write with an
+ d on (pen and paper)\n\nLink: https://www.emfcamp.org/schedule/2024/270-le
+ ts-make-a-tech-speaker-out-of-you\nVenue: Workshop 1 (NottingHack) (https:
+ //map.emfcamp.org/#18.5/52.042597/-2.375188/m=52.042597\,-2.375188)
+LOCATION:Workshop 1 (NottingHack)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mathematical Origami: Kaleidocycle Folding 
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240601T133000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240601T140000
+UID:2024-563
+DESCRIPTION:Get ready to fold your own Flexagons\, a bizarre mathematical 
+ shape with two faces which can be flexed to reveal a hidden face out of no
+ where! Use them as a way to send secret notes or a fun fidget or stim toy.
+ \n\n\nAttending this workshop will cost: \nSuitable age range: 10+\nAttend
+ ees should bring: None\n\nLink: https://www.emfcamp.org/schedule/2024/563-
+ mathematical-origami-kaleidocycle-folding\nVenue: Workshop 5 (Maths) (http
+ s://map.emfcamp.org/#18.5/52.040753/-2.377772/m=52.040753\,-2.377772)
+LOCATION:Workshop 5 (Maths)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MadLab soldering workshop
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240601T203000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240601T223000
+UID:2024-141
+DESCRIPTION:Soldering workshop offering a range of kits from very simple f
+ lashing light circuits up to Theremins\, Sonic Screwdrivers and mini synth
+ s. Suitable for all abilities from absolute beginners to seasoned solderer
+ s.\n\nAttending this workshop will cost: Depends on which kit is chosen\, 
+ the simplest is £6 and the most expensive £15 to £20\nSuitable age rang
+ e: 16+\nAttendees should bring: Nothing\, we provide all the equipment nee
+ ded.\n\nLink: https://www.emfcamp.org/schedule/2024/141-madlab-soldering-w
+ orkshop\nVenue: Workshop 6 (Hardware Hacking) (https://map.emfcamp.org/#18
+ .5/52.041258/-2.375748/m=52.041258\,-2.375748)
+LOCATION:Workshop 6 (Hardware Hacking)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Introduction to Magic Tricks (cards & more) 
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240601T150000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240601T170000
+UID:2024-227
+DESCRIPTION:We will open the workshop by reviewing the magicians code\, an
+ d swearing that the lessons learned will not be shared with laypeople. \nW
+ e will then watch a short magic show. I will next demonstrate a series of 
+ basic card moves and teach tricks you can build on them. We will also lear
+ n how to make a ribbon disappear and appear again!\nWe will talk about and
+  demonstrate how to make your magic trick delivery build suspense and conv
+ ince your spectators they are watching something truly magical.\nFinally\,
+  I will show the attendees resources so that if they wish\, they can conti
+ nue their magic journeys.\nAt the end of the workshop attendees will have 
+ the tools to perform a short magic routine (if they practice enough!)\, an
+ d will know what steps to take should they choose to continue doing magic.
+  \n\n*** Please note: This workshop is designed for people who want to per
+ form magic tricks for other people\, rather than for those who just want t
+ o learn magic secrets. Additionally\, if you already have a background in 
+ magic tricks (eg. if you already know what a DL and a TT is)\, this worksh
+ op will likely not be that interesting\, we will be covering basics. ***\n
+ \nAttending this workshop will cost: Free\nSuitable age range: 16+\nAttend
+ ees should bring: None required\n\nLink: https://www.emfcamp.org/schedule/
+ 2024/227-introduction-to-magic-tricks-cards-more\nVenue: Workshop 2 (Milli
+ ways) (https://map.emfcamp.org/#18.5/52.042808/-2.376136/m=52.042808\,-2.3
+ 76136)
+LOCATION:Workshop 2 (Milliways)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Build Your Own Satellite Ground Station 📡
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240601T153000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240601T173000
+UID:2024-61
+DESCRIPTION:Are you fascinated by space and want to learn how to receive d
+ ata from satellites and weather probes? Join us in this TinyGS Station Wor
+ kshop where you’ll build and program your ground station and antenna to 
+ receive data from space. This hands-on\, beginner-friendly workshop is per
+ fect for anyone interested in radio\, electronics\, IOT\, antenna design\,
+  and space exploration.\n\nAbout TinyGS: TinyGS is an open community-run n
+ etwork of Ground Stations distributed around the world to receive and oper
+ ate LoRa satellites\, weather probes and other flying objects\, using chea
+ p and versatile modules. With a TinyGS ground station\, you can receive da
+ ta from a variety of sources\, such as CubeSats.\n\nWhat You’ll Learn: D
+ uring the workshop\, you’ll learn how to build and program a TinyGS grou
+ nd station and a quarter-wave ground plane antenna. No prior experience is
+  required\, and we’ll provide all the necessary materials\, tools\, and 
+ equipment to guide you through the process.\n\nAttending this workshop wil
+ l cost: £70\nSuitable age range: 18+\nAttendees should bring: A device wi
+ th Telegram installed. I would link people to the instructions too encase 
+ they find my Irish accent hard to understand.\n\nLink: https://www.emfcamp
+ .org/schedule/2024/61-build-your-own-satellite-ground-station\nVenue: Work
+ shop 3 (Furry High Commission) (https://map.emfcamp.org/#18.5/52.041819/-2
+ .375384/m=52.041819\,-2.375384)
+LOCATION:Workshop 3 (Furry High Commission)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Build your own high tech Escape Room puzzles
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240531T143000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240531T163000
+UID:2024-330
+DESCRIPTION:Come and learn how to make your very own Escape Room style ele
+ ctronic puzzles using COGS! COGS is a hardware/software platform used in t
+ he industry for creating and running all kinds of interactive live experie
+ nces such as Escape Rooms and Immersive Theatre shows.\n\nYou'll learn the
+  fundamentals of using both COGS hardware and software in order to connect
+  together all kinds of buttons\, switches\, sensors\, lights\, motors and 
+ more. We'll work in groups to build a number of different unique interacti
+ ons that all link together to form our very own shared Escape Room experie
+ nce.. which we'll then test out on unsuspecting festival-goers!\n\nIdeal f
+ or anyone interested in puzzles & games\, live experiences\, creative tech
+ nology and more.\n\nNo experience necessary\, everyone is welcome.\n\nAtte
+ nding this workshop will cost: \nSuitable age range: 12+\nAttendees should
+  bring: A laptop and ideally have already installed COGS from https://acco
+ unt.cogs.show/\n\nLink: https://www.emfcamp.org/schedule/2024/330-build-yo
+ ur-own-high-tech-escape-room-puzzles\nVenue: Workshop 3 (Furry High Commis
+ sion) (https://map.emfcamp.org/#18.5/52.041819/-2.375384/m=52.041819\,-2.3
+ 75384)
+LOCATION:Workshop 3 (Furry High Commission)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LED Strips Everywhere for Everyone! workshop
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240531T210000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240531T223000
+UID:2024-172
+DESCRIPTION:Learn how to program LED strips.  It's super easy and fun to m
+ ake your life trippy and beautiful.  For total beginners -- no knowledge n
+ eeded at all.  LED strips have become really inexpensive. Hackers have cre
+ ated many easy methods for controlling them to make patterns and colors. I
+ n this workshop you will learn an easy way to control LED strips and make 
+ them do what you want.  We will make use a very inexpensive Arduino clone.
+   I'll show you everything you need to know to use existing programs -- as
+ -is\, or to hack on -- to control the colors in your world with LED strips
+ .\n\nAttending this workshop will cost: 20 GBP\nSuitable age range: 10+\nA
+ ttendees should bring: optional: laptop\n\nLink: https://www.emfcamp.org/s
+ chedule/2024/172-led-strips-everywhere-for-everyone-workshop\nVenue: Works
+ hop 6 (Hardware Hacking) (https://map.emfcamp.org/#18.5/52.041258/-2.37574
+ 8/m=52.041258\,-2.375748)
+LOCATION:Workshop 6 (Hardware Hacking)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Let's Tempeh!
@@ -1255,15 +1416,95 @@ DESCRIPTION:Tempeh is a traditional Indonesian food made from soybeans fer
  ergic to soy\, making tempeh is as safe as making other fermented foods (l
  ike sourdough or yoghurt). \n\n(Shout out to Maud and Antoine from Domingo
   Club\, wo came up with the idea of making tempeh in wearable petri dishes
- .)\n\nAttending this workshop will cost: 5 pounds\nSuitable age range: 6 t
- o 106\nAttendees should bring: curiosity\n\nLink: https://www.emfcamp.org/
- schedule/2024/436-lets-tempeh
+ .)\n\nAttending this workshop will cost: £5\nSuitable age range: 8+\nAtte
+ ndees should bring: curiosity\n\nLink: https://www.emfcamp.org/schedule/20
+ 24/436-lets-tempeh\nVenue: Workshop 5 (Maths) (https://map.emfcamp.org/#18
+ .5/52.040753/-2.377772/m=52.040753\,-2.377772)
 LOCATION:Workshop 5 (Maths)
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Computer Font Making Workshop
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240601T100000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240601T120000
+UID:2024-267
+DESCRIPTION:A workshop to guide you through the process of making your own
+  computer fonts\, be they handwriting\, custom-drawn\, designed\, copied\,
+  or modified.\n\nAfter a short talk\, I encourage experimentation with let
+ ter forms on paper\, and then use of a laptop to digitally create your own
+  font.\n\nFor more information\, see https://blog.alifeee.co.uk/font-works
+ hop/\n\nAttending this workshop will cost: No cost.\nSuitable age range: A
+ ll ages\nAttendees should bring: A laptop\n\nLink: https://www.emfcamp.org
+ /schedule/2024/267-computer-font-making-workshop\nVenue: Workshop 5 (Maths
+ ) (https://map.emfcamp.org/#18.5/52.040753/-2.377772/m=52.040753\,-2.37777
+ 2)
+LOCATION:Workshop 5 (Maths)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Furoshiki - The art of fabric wrapping
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240601T173000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240601T180000
+UID:2024-35
+DESCRIPTION:Japanese furoshiki is the artform that allows you to use a sin
+ gle square of fabric to wrap almost anything -- you can bundle your swim k
+ it to carry it to the pool to or wrap up awkward-shaped gifts to give to y
+ our gran. This skill will let you\, in a pinch\, easily carry a watermelon
+  home using your scarf as a bag!\n\nThis style of wrapping is becoming mor
+ e popular as an eco-friendly alternative to wrapping paper -- and the clot
+ h becomes part of the gift!\n\nFuroshiki is to fabric what origami is to p
+ aper. This workshop will require some dexterity and patience - if you have
+  less dexterity then you will require more patience but we'll get there to
+ gether!\n\nAttending this workshop will cost: £15 (includes a furoshiki c
+ loth to take home)\nSuitable age range: 12+\nAttendees should bring: Bring
+  a variety of items you'd carry on the regular\, such as laptop\, water bo
+ ttle\, books\, mobile phone and keys\, etc. You will practice wrapping usi
+ ng these items.\n\nLink: https://www.emfcamp.org/schedule/2024/35-furoshik
+ i-the-art-of-fabric-wrapping\nVenue: Workshop 1 (NottingHack) (https://map
+ .emfcamp.org/#18.5/52.042597/-2.375188/m=52.042597\,-2.375188)
+LOCATION:Workshop 1 (NottingHack)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Build Your Own Z80 Retro Computer Kit
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240602T133000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240602T143000
+UID:2024-261
+DESCRIPTION:The RC2014 is a Z80 based computer kit that runs Microsoft BAS
+ IC\, and introduces you to the cutting edge world of computing in the late
+  1970s!\n\nIn this workshop\, I will take you through the steps involved i
+ n building an RC2014 Micro\, explaining how it works\, what you can do wit
+ h it\, and\, how to troubleshoot it if necessary. By the end of the worksh
+ op you will have a working retro computer to take home that can be plugged
+  in to a laptop.\n\nI will have soldering irons\, wire cutters etc for att
+ endees to use\, but feel free to bring your own equipment if you prefer.\n
+ \nAttending this workshop will cost: £55\nSuitable age range: 12+\nAttend
+ ees should bring: \n\nLink: https://www.emfcamp.org/schedule/2024/261-buil
+ d-your-own-z80-retro-computer-kit\nVenue: Workshop 6 (Hardware Hacking) (h
+ ttps://map.emfcamp.org/#18.5/52.041258/-2.375748/m=52.041258\,-2.375748)
+LOCATION:Workshop 6 (Hardware Hacking)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surface mount electronics assembly for terrified beginners
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240602T150000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240602T170000
+UID:2024-663
+DESCRIPTION:In this workshop\, we will learn to handle the tiniest electro
+ nic components\, which are used to make modern electronic devices. We will
+  cheat the same way the electronics industry does\, and use the techniques
+  of stencil paste printing and reflow soldering. We will also learn a tech
+ nique that stops your hands from shaking\, so you can very very precisely 
+ place microscopic parts. No prior experience or knowledge of anything elec
+ tronic needed. Caffeine use is not recommended immediately before. All too
+ ls are provided.\n\nAttending this workshop will cost: 20 for those that w
+ ant to make their own board\, free to observe\nSuitable age range: 12+\nAt
+ tendees should bring: no equipment needed\n\nLink: https://www.emfcamp.org
+ /schedule/2024/663-surface-mount-electronics-assembly-for-terrified-beginn
+ ers\nVenue: Workshop 6 (Hardware Hacking) (https://map.emfcamp.org/#18.5/5
+ 2.041258/-2.375748/m=52.041258\,-2.375748)
+LOCATION:Workshop 6 (Hardware Hacking)
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Musical Jam Garden 2
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240601T130000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240601T140000
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240602T160000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240602T170000
 UID:2024-560
 DESCRIPTION:Come and join a music jam! A welcoming space for musicians/non
  -musicians to gather\, that will be activated by a facilitator at schedule
@@ -1272,23 +1513,116 @@ DESCRIPTION:Come and join a music jam! A welcoming space for musicians/non
  help you out with how to use the instruments.\n\nAttending this workshop w
  ill cost: \nSuitable age range: 12+\nAttendees should bring: Musical instr
  ument if they want to bring their own\n\nLink: https://www.emfcamp.org/sch
- edule/2024/560-musical-jam-garden-2
+ edule/2024/560-musical-jam-garden-2\nVenue: Workshop 0 (Drop-in) (https://
+ map.emfcamp.org/#18.5/52.042955/-2.376244/m=52.042955\,-2.376244)
 LOCATION:Workshop 0 (Drop-in)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Everyone's a Writer
+SUMMARY:Titanium Spork Workshop
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240531T140000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240531T170000
+UID:2024-158
+DESCRIPTION:Make your own titanium spork\, to your own design. You’ll cu
+ t it from sheet and hammer it to shape. No experience is required\, and yo
+ u’ll end up learning some basic sheet-metal technique.\n\n\n\nAttending 
+ this workshop will cost: \nSuitable age range: 12+\nAttendees should bring
+ : \n\nLink: https://www.emfcamp.org/schedule/2024/158-titanium-spork-works
+ hop\nVenue: Workshop 0 (Drop-in) (https://map.emfcamp.org/#18.5/52.042955/
+ -2.376244/m=52.042955\,-2.376244)
+LOCATION:Workshop 0 (Drop-in)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surface mount electronics assembly for terrified beginners
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240530T200000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240530T220000
+UID:2024-662
+DESCRIPTION:In this workshop\, we will learn to handle the tiniest electro
+ nic components\, which are used to make modern electronic devices. We will
+  cheat the same way the electronics industry does\, and use the techniques
+  of stencil paste printing and reflow soldering. We will also learn a tech
+ nique that stops your hands from shaking\, so you can very very precisely 
+ place microscopic parts. No prior experience or knowledge of anything elec
+ tronic needed. Caffeine use is not recommended immediately before. All too
+ ls are provided.\n\nAttending this workshop will cost: 20 for those that w
+ ant to make their own board\, free to observe\nSuitable age range: 12+\nAt
+ tendees should bring: no equipment needed\n\nLink: https://www.emfcamp.org
+ /schedule/2024/662-surface-mount-electronics-assembly-for-terrified-beginn
+ ers\nVenue: Workshop 6 (Hardware Hacking) (https://map.emfcamp.org/#18.5/5
+ 2.041258/-2.375748/m=52.041258\,-2.375748)
+LOCATION:Workshop 6 (Hardware Hacking)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Learn to crochet and contribute to an EMF community crochet blanke
+ t
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240531T110000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240531T130000
+UID:2024-307
+DESCRIPTION:This workshop is aimed at beginners who have never picked up a
+  crochet hook before. You'll learn how to hold your yarn and hook\, practi
+ ce the basic crochet stitches\, then choose your own yarn and a simple wri
+ tten pattern to follow to make a crochet square (for example: striped squa
+ re\, classic granny square\, corner-to-corner square).\n\nWhen you're done
+ \, you can take your creation away as a souvenir or contribute it to the E
+ MF community crochet blanket which we'll be building throughout the weeken
+ d! If you want to keep practicing afterwards\, you'll be able to visit the
+  workshop host and the blanket in Tekhnē-cal Village.\n\nAll materials wi
+ ll be provided.\n\nNote: if you know how to crochet and just want to contr
+ ibute to the blanket\, you can do that any time in Tekhnē-cal Village. Yo
+ u don't need to get tickets to this workshop.\n\nAttending this workshop w
+ ill cost: \nSuitable age range: 8+\nAttendees should bring: Nothing\n\nLin
+ k: https://www.emfcamp.org/schedule/2024/307-learn-to-crochet\nVenue: Work
+ shop 5 (Maths) (https://map.emfcamp.org/#18.5/52.040753/-2.377772/m=52.040
+ 753\,-2.377772)
+LOCATION:Workshop 5 (Maths)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Everyone's a Writer!
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240601T130000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240601T150000
 UID:2024-33
 DESCRIPTION:You don't have to be an English graduate or a nepo-baby to bec
- ome an author. I've been published five times\, and it all stemmed from a 
- love of telling stories and bringing people together.\n\nLet's get hands o
- n at this writing workshop\, diving into some prompts and top tips to help
-  everyone get started with writing\, no matter your experience level or pr
- eferred genre.\n\nAttending this workshop will cost: \nSuitable age range:
-  13+\nAttendees should bring: Laptop or Notepad & Pen\n\nLink: https://www
- .emfcamp.org/schedule/2024/33-everyones-a-writer
+ ome an author! If you love the idea of telling a story using words\, verse
+ \, poetry\, or song\, then this workshop is for you.\n\nBring along a note
+ pad or your laptop and dive into some writing prompts and excersises. We'l
+ l discuss how to get started\, how to get unstuck\, and how to fit writing
+  into your day no matter how busy you get.\n\n👉 This workshop comtains 
+ hints and top tips to help everyone get started with writing\, no matter y
+ our experience level or preferred genre.\n\n✏️ This workshop is full o
+ f writing prompts and handy tips and tricks to get started or unstuck with
+  your writing.\n\n😬 Never written before? No problem! This workshop is 
+ absolutely open to absolute beginners\, and there's no barriers to entry.\
+ n\n🎁 Every workshop attendee will get to take away a set of writing pro
+ mpts!\n\n\n\nAttending this workshop will cost: \nSuitable age range: 12+\
+ nAttendees should bring: Laptop or Notepad & Pen\n\nLink: https://www.emfc
+ amp.org/schedule/2024/33-everyones-a-writer\nVenue: Workshop 3 (Furry High
+  Commission) (https://map.emfcamp.org/#18.5/52.041819/-2.375384/m=52.04181
+ 9\,-2.375384)
 LOCATION:Workshop 3 (Furry High Commission)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Make a Ticklish Robot!
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240602T113000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240602T133000
+UID:2024-48
+DESCRIPTION:Make a paper robot that waves its arms with laughter when you 
+ tickle its feet\, and learn a bit about physical computing in the process!
+  \n\nDuring the workshop you'll...\n-Cut and fold the parts for the robot 
+ from paper\n-Connect the servo that drives the robot's arms to the BBC mic
+ ro:bit\n-Program the micro:bit using block code\n-Decorate your robot to g
+ ive it a personality\n\nWhether you're completely new to robotics or an ex
+ pert\, this is a chance to have some fun blending art with engineering\, a
+ nd to be inspired by how household materials like paper can be combined wi
+ th simple electronics to build fully functional robots. \n\nYou can either
+  borrow a micro:bit for the duration of the workshop or bring your own. \n
+ Note that if you borrow a micro:bit\, you'll be able to keep your robot bu
+ t you'll need to supply your own micro:bit at home to get it back up and r
+ unning. \n\nExample of the robot in action: https://www.youtube.com/watch?
+ v=Jdin_PYYk_8\n\nAttending this workshop will cost: Free\nSuitable age ran
+ ge: 8+\nAttendees should bring: Laptops. Optional: micro-USB cable\, micro
+ :bit\n\nLink: https://www.emfcamp.org/schedule/2024/48-make-a-ticklish-rob
+ ot\nVenue: Workshop 5 (Maths) (https://map.emfcamp.org/#18.5/52.040753/-2.
+ 377772/m=52.040753\,-2.377772)
+LOCATION:Workshop 5 (Maths)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Solargraphy
@@ -1301,7 +1635,27 @@ DESCRIPTION:Drop in sessions! Build your own pinhole camera to trace the p
  terials provided.\n\nAttending this workshop will cost: £5\nSuitable age 
  range: 6+\nAttendees should bring: All materials and equipment provided - 
  Recommend supervision for under 10s\n\nLink: https://www.emfcamp.org/sched
- ule/2024/529-solargraphy
+ ule/2024/529-solargraphy\nVenue: Workshop 1 (NottingHack) (https://map.emf
+ camp.org/#18.5/52.042597/-2.375188/m=52.042597\,-2.375188)
+LOCATION:Workshop 1 (NottingHack)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Knot too hard - an introduction to Celtic knotwork 
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240531T113000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240531T130000
+UID:2024-88
+DESCRIPTION:For centuries craftsmen across the globe have been fascinated 
+ by Celtic Knotwork using it to decorate stone\, paper and textiles.  Now i
+ t is your turn !  If you can count up to three and hold a pencil\, this wo
+ rkshop will show you how to create your own knotwork.\nThis  workshop is s
+ uitable for all ages - children accompanied by a responsible adult please.
+ \nAll materials will be provided\, just bring your own patience and sense 
+ of humour. \nWarning - this can become an addictive time waster.....\n\nAt
+ tending this workshop will cost: n/a\nSuitable age range: All ages\nAttend
+ ees should bring: none\n\nLink: https://www.emfcamp.org/schedule/2024/88-k
+ not-too-hard-an-introduction-to-celtic-knotwork\nVenue: Workshop 1 (Nottin
+ gHack) (https://map.emfcamp.org/#18.5/52.042597/-2.375188/m=52.042597\,-2.
+ 375188)
 LOCATION:Workshop 1 (NottingHack)
 END:VEVENT
 BEGIN:VEVENT
@@ -1314,29 +1668,104 @@ DESCRIPTION:Build a mini fighting robot and fight them! There are limited
  d a controllable robot.\n\nAttending this workshop will cost: £40\nSuitab
  le age range: Aimed at adults\, but supervised kids welcome.\nAttendees sh
  ould bring: All equipment provided\n\nLink: https://www.emfcamp.org/schedu
- le/2024/527-mini-robot-event
+ le/2024/527-mini-robot-event\nVenue: Workshop 1 (NottingHack) (https://map
+ .emfcamp.org/#18.5/52.042597/-2.375188/m=52.042597\,-2.375188)
 LOCATION:Workshop 1 (NottingHack)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Arduino Workshop (Intermediate)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240601T100000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240601T120000
-UID:2024-530
-DESCRIPTION:An intermediate Arduino workshop to learn how to code and inte
- rface with an Arduino module. The price of the workshop includes the modul
- e and breadboard. The workshop cost is £10\, or £20 with an arduino (whi
- ch you can keep). A laptop is required to do the programming and uploading
- .\n\nMaximum of 10 attendees but pairs more than welcome.\n\nAttending thi
- s workshop will cost: £20\nSuitable age range: Aimed at adults\, but supe
- rvised kids welcome.\nAttendees should bring: Laptop required. If you brin
- g your own Arduino Uno\, the cost is £10 rather than £20.\n\nLink: https
- ://www.emfcamp.org/schedule/2024/530-arduino-workshop-intermediate
-LOCATION:Workshop 1 (NottingHack)
+SUMMARY:π•pistrelle (bat listening and recording device)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240601T180000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240601T180200
+UID:2024-703
+DESCRIPTION:We will assemble the π•pistrelle bat listening and recordin
+ g device by https://www.omenie.com (version 5.3) using the techniques of s
+ tencil paste printing\, surface mount assembly\, and hotplate reflow. We w
+ ill also learn a technique that stops your hands from shaking\, so you can
+  very very precisely place microscopic parts. No prior experience or knowl
+ edge of anything electronic needed. Caffeine use is not recommended immedi
+ ately before. All tools are provided. You will need your own headphones (3
+ .5mm) and optionally a microSD card if you want to do recordings. Related 
+ events:\n- Workshop: Eavesdropping on Eastnor's bats (Sat 13:00\, Workshop
+  2)\n- Bat walk (Sat 20:30\, Lounge)\n\nThis event has limited capacity. P
+ eople who attend the "Eavesdropping on Eastnor's Bats" workshop will have 
+ first opportunity to sign up\, and remaining places\, if any\, will be Fir
+ st-come\, First-served.\n\nAge range: 12+\, younger participants welcome i
+ f they can do focused work for 2 hours at a time\n\nCost: £20/kit if you 
+ want to keep the device\, spectators free\n\n\nAttending this workshop wil
+ l cost: £20\nSuitable age range: 12+\nAttendees should bring: Headphones.
+  Optionally microSD card.\n\nLink: https://www.emfcamp.org/schedule/2024/7
+ 03-%CF%80-pistrelle-bat-listening-and-recording-device\nVenue: Workshop 6 
+ (Hardware Hacking) (https://map.emfcamp.org/#18.5/52.041258/-2.375748/m=52
+ .041258\,-2.375748)
+LOCATION:Workshop 6 (Hardware Hacking)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:π•pistrelle (bat listening and recording device)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240530T170000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240530T170200
+UID:2024-701
+DESCRIPTION:We will assemble the π•pistrelle bat listening and recordin
+ g device by https://www.omenie.com (version 5.3) using the techniques of s
+ tencil paste printing\, surface mount assembly\, and hotplate reflow. We w
+ ill also learn a technique that stops your hands from shaking\, so you can
+  very very precisely place microscopic parts. No prior experience or knowl
+ edge of anything electronic needed. Caffeine use is not recommended immedi
+ ately before. All tools are provided. You will need your own headphones (3
+ .5mm) and optionally a microSD card if you want to do recordings. Related 
+ events:\n- Workshop: Eavesdropping on Eastnor's bats Sat 13:00\, Workshop 
+ 2\n- Second session of this workshop (with more capacity and different sig
+ nup method) Sat 18:30\, Workshop 6\n- Bat walk Sat 20:30\, Lounge\n\nThis 
+ event has no ticketing\, but has limited capacity. First-come\, First-serv
+ ed.\n\nAge range: 12+\, younger participants welcome if they can do focuse
+ d work for 2 hours at a time\n\nCost: £20/kit if you want to keep the dev
+ ice\, spectators free\n\n\nAttending this workshop will cost: £20\nSuitab
+ le age range: 12+\nAttendees should bring: Headphones. Optionally microSD 
+ card.\n\nLink: https://www.emfcamp.org/schedule/2024/701-%CF%80-pistrelle-
+ bat-listening-and-recording-device\nVenue: Workshop 6 (Hardware Hacking) (
+ https://map.emfcamp.org/#18.5/52.041258/-2.375748/m=52.041258\,-2.375748)
+LOCATION:Workshop 6 (Hardware Hacking)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eavesdropping on Eastnor’s bats: an introduction to bioacoustics
+  in the field
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240601T130000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240601T143000
+UID:2024-361
+DESCRIPTION:The EMF site is home to bats\, with possibly up to 15 species 
+ in the area. In this workshop\, attendees will learn about "bioacoustics"\
+ , and how to process and analyse recordings of bats with free and open sou
+ rce software\, to work out which species of bats were recorded. Attendees 
+ will leave with basic knowledge of bioacoustics\, how different types of b
+ at recorders work\, and how different species of bats communicate.\n\n\n\n
+ \nAttending this workshop will cost: \nSuitable age range: 16+\nAttendees 
+ should bring: Laptop\n\nLink: https://www.emfcamp.org/schedule/2024/361-ea
+ vesdropping-on-eastnor-s-bats\nVenue: Workshop 2 (Milliways) (https://map.
+ emfcamp.org/#18.5/52.042808/-2.376136/m=52.042808\,-2.376136)
+LOCATION:Workshop 2 (Milliways)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Art with character(s): Make your own ASCII art with Python 
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240602T143000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240602T153000
+UID:2024-56
+DESCRIPTION:\n─█▀▀█ ░█▀▀▀█ ░█▀▀█ ▀█▀
+  ▀█▀ \n░█▄▄█ ─▀▀▀▄▄ ░█─── ░█─ 
+ ░█─ \n░█─░█ ░█▄▄▄█ ░█▄▄█ ▄█▄ 
+ ▄█▄ \n\nCome along to this workshop for a short talk about what ASCI
+ I art is and its history\, an interactive tutorial of how you can use Pyth
+ on and Pillow to take images from the internet and your webcam and turn th
+ em into ASCII art\, and an opportunity to show off your new skills by buil
+ ding something cool.\n\nAttending this workshop will cost: \nSuitable age 
+ range: 12+\nAttendees should bring: Laptop\n\nLink: https://www.emfcamp.or
+ g/schedule/2024/56-art-with-character-s-make-your-own-ascii-art-with-pytho
+ n\nVenue: Workshop 4 (FieldFX) (https://map.emfcamp.org/#18.5/52.043289/-2
+ .375978/m=52.043289\,-2.375978)
+LOCATION:Workshop 4 (FieldFX)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Solder some Solar
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240602T133000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240602T143000
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240602T173000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240602T183000
 UID:2024-272
 DESCRIPTION:Make your own solar powered torch.\n\nAttendees will solder to
  gether a small LED torch with a solar panel. Charge up the ultra-capacitor
@@ -1344,8 +1773,10 @@ DESCRIPTION:Make your own solar powered torch.\n\nAttendees will solder to
  olar energy and also for beginners to try out soldering.\n\nAttendees will
   take away their little solar torch which also has a keyring. Suitable for
   ages 7+. Soldering will be guided.\n\nAttending this workshop will cost: 
- £5\nSuitable age range: 7+\nAttendees should bring: Nothing\n\nLink: http
- s://www.emfcamp.org/schedule/2024/272-solder-some-solar
+ £5\nSuitable age range: 8+\nAttendees should bring: Nothing\n\nLink: http
+ s://www.emfcamp.org/schedule/2024/272-solder-some-solar\nVenue: Workshop 6
+  (Hardware Hacking) (https://map.emfcamp.org/#18.5/52.041258/-2.375748/m=5
+ 2.041258\,-2.375748)
 LOCATION:Workshop 6 (Hardware Hacking)
 END:VEVENT
 BEGIN:VEVENT
@@ -1368,9 +1799,10 @@ DESCRIPTION:A modern spin on leather work. Laser cut leather pieces that c
  ods to explore at home from using a printer\, Circuit or laser cutter will
   be shown for those who would like to experiment further.\n\nAttending thi
  s workshop will cost: £15-£50 depending on kits chosen.\nSuitable age ra
- nge: 12-99\nAttendees should bring: None. A laptop can be brought along to
-  explore CAD software.\n\nLink: https://www.emfcamp.org/schedule/2024/393-
- laser-cut-leather
+ nge: 12+\nAttendees should bring: None. A laptop can be brought along to e
+ xplore CAD software.\n\nLink: https://www.emfcamp.org/schedule/2024/393-la
+ ser-cut-leather\nVenue: Workshop 1 (NottingHack) (https://map.emfcamp.org/
+ #18.5/52.042597/-2.375188/m=52.042597\,-2.375188)
 LOCATION:Workshop 1 (NottingHack)
 END:VEVENT
 END:VCALENDAR

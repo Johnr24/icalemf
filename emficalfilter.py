@@ -6,6 +6,9 @@ import csv
 with open('village_names.csv', 'r') as file:
     reader = csv.reader(file)
     village_names = [row[0] for row in reader]  # Flatten the list of lists
+    village_names.append('Lockpicking Village Tent')
+    village_names.append('Tekhnē-cal Village')
+
 # Download the 2024.ical file from the given URL
 url = 'https://www.emfcamp.org/schedule/2024.ical'
 response = requests.get(url)
@@ -37,8 +40,9 @@ for event in cal.walk('vevent'):
 for event in cal.walk('vevent'):
     if 'sector' in event.get('location', '').lower():
         nullsector_cal.add_component(event)
+# for villages, if the event's location contains the name of a village, add it to the filtered calendar the list can be found in the village_names.csv file however if the word "workshop" is in the location, it will not be added to the village calendar
 for event in cal.walk('vevent'):
-    if event.get('location', '') in village_names or 'lockpicking village tent' or 'Tekhnē-cal Village' in event.get('location', '').lower():
+    if any(village in event.get('location', '').lower() for village in village_names) and 'workshop' not in event.get('location', '').lower():
         village_cal.add_component(event)
 for event in cal.walk('vevent'):
     if 'youth' in event.get('location', '').lower():
@@ -62,7 +66,7 @@ with open('./feeds/workshop.ical', 'wb') as file:
     file.write(workshop_cal.to_ical())
 with open('./feeds/nullsector.ical', 'wb') as file:
     file.write(nullsector_cal.to_ical())
-with open('./feeds/village.ical', 'wb') as file:
+with open('./feeds/villages.ical', 'wb') as file:
     file.write(village_cal.to_ical())
 with open('./feeds/youth_workshop.ical', 'wb') as file:
     file.write(youth_workshop_cal.to_ical())
